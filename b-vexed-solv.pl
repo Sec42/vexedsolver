@@ -158,7 +158,7 @@ while($searching){
 			if (isempty($l,$c,$blocks)){
 				$_->[1]=$c;
 				my $hb=hashboard($blocks);
-				push @nboards,$hb;
+				push @nboards,$hb ;
 				$sources{$hb}=$pos;
 #				print "-> ",$hb,"\n";
 				$_->[1]=$oc;
@@ -168,7 +168,7 @@ while($searching){
 			if (isempty($l,$c,$blocks)){
 				$_->[1]=$c;
 				my $hb=hashboard($blocks);
-				push @nboards,$hb;
+				push @nboards,$hb ;
 				$sources{$hb}=$pos;
 #				print "-> ",$hb,"\n";
 				$_->[1]=$oc;
@@ -183,6 +183,7 @@ while($searching){
 	my $changed;
 MAIN: for my $pos (@nboards){
 		print "proc: $pos" if (DEBUG);
+		next if($btdt{$pos});
 		$blocks=unhashboard $pos;
 
 #Sanitize: prune tree on invalid situations
@@ -219,6 +220,7 @@ MAIN: for my $pos (@nboards){
 				next MAIN;
 			};
 		};
+		if(1){
 		# >2 is imprecise, ignores the rest
 		if (scalar keys %ll >=2){
 			my($a,$b)=(values %ll);
@@ -226,13 +228,14 @@ MAIN: for my $pos (@nboards){
 			($as,$ab)=($ab,$as) if ($ab<$as);
 			my ($bs,$bb)=($b->[0],$b->[1]);
 			($bs,$bb)=($bb,$bs) if ($bb<$bs);
-			unless($bb<$as || $ab<$bs){
+			if( ($as < $bs && $bs < $ab && $bb > $ab) ||
+				($bs < $as && $as < $bb && $ab > $bb) ){
+#				pboard $blocks;
 				print "-> broke it by transposition\n" if(DEBUG);
 				next MAIN;
 			};
 		};
-
-
+		};
 
 
 #Falling down...
