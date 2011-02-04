@@ -123,6 +123,19 @@ do{
 	};
 }while ($isfull);
 
+my $lastpeg=0;
+$isfull=1;
+for (0..$#{$eboard[$lastline]}){
+	if(!$eboard[$lastline][$_]){
+		$isfull=0;
+	};
+	if($isfull==0 && $eboard[$lastline][$_]){
+		$lastpeg=$_;
+		last;
+	};
+};
+
+
 my $blocks;
 my @nboards;
 my %sources;
@@ -172,7 +185,7 @@ MAIN: for my $pos (@nboards){
 		print "proc: $pos" if (DEBUG);
 		$blocks=unhashboard $pos;
 
-#Sanitize: Check more than 1 block of each existing type
+#Sanitize: prune tree on invalid situations
 		my %bcnt=();
 		my %ll=();
 		for (@$blocks){
@@ -181,6 +194,7 @@ MAIN: for my $pos (@nboards){
 				push @{$ll{$_->[2]}},$_->[1];
 			};
 		};
+# 	Check more than 1 block of each existing type
 		for(keys%bcnt){
 			if($bcnt{$_} == 1){
 				print "-> broke it\n" if(DEBUG);
@@ -189,10 +203,20 @@ MAIN: for my $pos (@nboards){
 				delete $ll{$_};
 			};
 		};
+#	Abort if stones are "abab" or "a#a" in the bottom row.
 		for (keys %ll){
 			if ($#{$ll{$_}}<1){
 				delete $ll{$_};
 				next;
+			};
+			my($a,$b)=@{$ll{$_}};
+			if($a<$lastpeg && $b>$lastpeg){
+				print "-> broke it by peg\n" if(DEBUG);
+				next MAIN;
+			};
+			if($b<$lastpeg && $a>$lastpeg){
+				print "-> broke it by peg\n" if(DEBUG);
+				next MAIN;
 			};
 		};
 		# >2 is imprecise, ignores the rest
