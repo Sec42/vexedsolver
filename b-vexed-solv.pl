@@ -158,7 +158,7 @@ while($searching){
 			if (isempty($l,$c,$blocks)){
 				$_->[1]=$c;
 				my $hb=hashboard($blocks);
-				push @nboards,$hb ;
+				push @nboards,$hb;
 				$sources{$hb}=$pos;
 #				print "-> ",$hb,"\n";
 				$_->[1]=$oc;
@@ -168,7 +168,7 @@ while($searching){
 			if (isempty($l,$c,$blocks)){
 				$_->[1]=$c;
 				my $hb=hashboard($blocks);
-				push @nboards,$hb ;
+				push @nboards,$hb;
 				$sources{$hb}=$pos;
 #				print "-> ",$hb,"\n";
 				$_->[1]=$oc;
@@ -220,7 +220,6 @@ MAIN: for my $pos (@nboards){
 				next MAIN;
 			};
 		};
-		if(1){
 		# >2 is imprecise, ignores the rest
 		if (scalar keys %ll >=2){
 			my($a,$b)=(values %ll);
@@ -234,7 +233,6 @@ MAIN: for my $pos (@nboards){
 				print "-> broke it by transposition\n" if(DEBUG);
 				next MAIN;
 			};
-		};
 		};
 
 
@@ -279,8 +277,10 @@ MAIN: for my $pos (@nboards){
 		};
 
 		if($changed){
-			push @nboards,$hb;
 			$sources{$hb}=$sources{$pos};
+			$pos=$hb;
+			redo MAIN;
+			push @nboards,$hb;
 			next MAIN;
 		};
 
