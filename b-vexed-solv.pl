@@ -12,15 +12,19 @@ $|=1;
 my $file=shift;
 my $lvl =shift;
 
-open(my $lvlfile,"<",$file) ||die;
+my @full;
 
+open(my $lvlfile,"<",$file) ||die;
 my $lvlno=0;
+my($board,$title);
+
+if($file =~ /\.ini/){ # Sourceforge levels
+
 while(<$lvlfile>){
 $lvlno++ if ($_ =~ /^\[Level\]/);
 last if ($lvlno == $lvl);
 }
 
-my($board,$title);
 while (<$lvlfile>){
 	chomp;
 	s/\r$//; # DOS/Win-Lineends
@@ -29,6 +33,20 @@ while (<$lvlfile>){
 	last if /^\[/;
 };
 close($lvlfile);
+}else{ # Android levels
+	while(<$lvlfile>){
+		$lvlno++;
+		last if ($lvlno == $lvl);
+	};
+	chomp;
+# Peach;.fXXXX.f/.aXXXX.X/.XXXXX.X/h...XX.h/X.X.X.ec/X...aecX;19
+
+	($title,$board,undef)=split(/;/);
+	$board=~y/X./#~/;
+	$board=~s!/!#/#!g;
+	$board=~m!([^/]*)!;
+	$board="#".$board."#/"."#"x (length($1)+1);
+};
 
 print "Level $lvlno is \"$title\"\n";
 
@@ -80,16 +98,19 @@ COL:		for my $col (0..$#{$eline}){
 sub hashboard{
 	my $hash;
 	my $b=shift;
-	return join(";",map {join(",",@$_)} grep {!$_->[3]} @$b);
+	return join(";",sort map {join(",",@$_)} grep {!$_->[3]} @$b);
 };
 
 sub unhashboard{
 	my $hash=shift;
+#	@full=();
+#	return [map {my($a,$b,$c)=split(",",$_);$full[$a][$b]=$c;[$a,$b,$c]} split(";",$hash)];
 	return [map {[split(",",$_)]}split(";",$hash)];
 };
 
 sub isempty{
 	return 0 if $eboard[$_[0]][$_[1]];
+#	return 0 if $full[$_[0]][$_[1]];
 	for (@{$_[2]}){
 		return 0 if ($_->[0] == $_[0] && $_->[1] == $_[1]);
 	};
