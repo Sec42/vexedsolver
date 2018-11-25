@@ -4,9 +4,7 @@
 
 use strict;
 use warnings;
-use Data::Dumper;
 use constant DEBUG => 0;
-use constant LLOPT => 1;
 $|=1;
 
 my $file=shift;
@@ -14,43 +12,41 @@ my $lvl =shift;
 
 my @full;
 
-open(my $lvlfile,"<",$file) ||die;
+open(my $lvlfile,"<",$file) ||die "Can't open file: $!\n";
 my $lvlno=0;
 my($board,$title);
 
 if($file =~ /\.ini/){ # Sourceforge levels
 
-while(<$lvlfile>){
-$lvlno++ if ($_ =~ /^\[Level\]/);
-last if ($lvlno == $lvl);
-}
+	while(<$lvlfile>){
+		$lvlno++ if ($_ =~ /^\[Level\]/);
+		last if ($lvlno == $lvl);
+	}
 
-while (<$lvlfile>){
-	chomp;
-	s/\r$//; # DOS/Win-Lineends
-	$board=$1 if /^board=(\S+)/;
-	$title=$1 if /^title=(.*)/;
-	last if /^\[/;
-};
-close($lvlfile);
+	while (<$lvlfile>){
+		chomp;
+		s/\r$//; # DOS/Win-Lineends
+		$board=$1 if /^board=(\S+)/;
+		$title=$1 if /^title=(.*)/;
+		last if /^\[/;
+	};
+	$board=~s/(\d+)/"#"x$&/ge; # Expand compression
 }else{ # Android levels
 	while(<$lvlfile>){
 		$lvlno++;
 		last if ($lvlno == $lvl);
 	};
 	chomp;
-# Peach;.fXXXX.f/.aXXXX.X/.XXXXX.X/h...XX.h/X.X.X.ec/X...aecX;19
-
 	($title,$board,undef)=split(/;/);
-	$board=~y/X./#~/;
-	$board=~s!/!#/#!g;
+	$board=~y/X./#~/; # fix Wall/Space to Palm version
+	$board=~s!/!#/#!g; # Add walls left/right
 	$board=~m!([^/]*)!;
-	$board="#".$board."#/"."#"x (length($1)+1);
+	$board="#".$board."#/"."#"x (length($1)+1); # Add wall at bottom
 };
+close($lvlfile);
 
 print "Level $lvlno is \"$title\"\n";
 
-$board=~s/(\d+)/"#"x$&/ge; # Expand compression
 my $emptyboard;
 ($emptyboard=$board)=~y!~a-z! !;
 
@@ -103,8 +99,6 @@ sub hashboard{
 
 sub unhashboard{
 	my $hash=shift;
-#	@full=();
-#	return [map {my($a,$b,$c)=split(",",$_);$full[$a][$b]=$c;[$a,$b,$c]} split(";",$hash)];
 	return [map {[split(",",$_)]}split(";",$hash)];
 };
 
@@ -116,15 +110,6 @@ sub isempty{
 	};
 	return 1;
 };
-
-#sub isempty{
-#	my ($l,$c,$b)=@_;
-#	return 0 if $eboard[$l][$c];
-#	for (@$b){
-#		return 0 if ($_->[0] == $l && $_->[1] == $c);
-#	};
-#	return 1;
-#};
 
 my %btdt;
 
