@@ -1,0 +1,60 @@
+Lone Ranger;XXXe.XXX/XXXX.XXX/XXXX.XXX/b.XX.X.g/X..c...c/bg.X.fef;13
+Mork & Mindy;XXX.gXX/XX.eXXX/hf.g..e/fX.ch.c;20
+Marcus Welby;hX.gXXXX/a..XXXXX/X..XXXXX/X..XXXXX/X.c...hb/XXgbX.ac;22
+One Day At A Time;XXXcb.eX/XX.bd.XX/XX.Xe.XX/XX.XX..g/...XX..X/dX.g.c.X;15
+HillStreet Blues;XXXXX.g/XXXXX.X/.fXXd.X/.a..X.h/.Xd.a.X/fXghX.X;13
+Rawhide;h.XXXXX/X.XXXXX/XeXXXXX/.b..g.X/.X.bX.X/gXedh.d;17
+Golden Girls;XXXXX.cf/XXX...dg/XXX.X.XX/....Xc../gX..dhfh;23
+Barnaby Jones;XXe.XXXX/.hX.XXXX/.XX.XX.h/.b..XX.f/.Xc....X/.efbX..c;24
+X-Files;b.XXX.e/X.XXX.X/X.XXX.X/he.d..X/dchcb.X;16
+Night Court;XXXcXXXX/XX.g.X.e/X..X...X/f....hcX/e..XgfhX;21
+Three's Company;a.b..cXX/h.X..XXX/X....XXX/XX...XXX/.....hXX/cX..dbda;19
+The Cosby Show;XX.eXXXX/c..XXXXX/d..XXX.d/X..XXX.c/X.e..X.b/X.dXbd.X;12
+Dennis The Menace;b..cXXXX/Xa.XXXXX/Xd..e.Xe/XcadX..b;18
+Alfred Hitchcock;hX..bXX/g..Xg.X/Xh..X.X/hb.b...;18
+Dragnet;XXXXgX/XX.afX/dX.hXX/aX.XXX/h..XXX/gX..fd;16
+Hazel;XXXXXXh/c.XXX.b/X.XXX.X/X.XdX.X/h..h..X/X.dcb.X;14
+Third Rock;b.XeX.fX/X.Xd..XX/X.XX..XX/X...d.Xb/ef.eX..e;17
+The Simpsons;Xe..eXXX/.a..X.fX/.X..X.XX/.h..f.XX/.a..g.XX/gX..Xh..;16
+Matlock;eXXXXXX/g.XXXXX/a.XXXXX/X.XXX.f/X....gh/Xe.Xhfa;12
+Odd Couple;XXXXdXX/XXX.aXX/XXX.XXf/XX..X.b/fX..d.a/d..aXbX;15
+The Brady Bunch;XXXXXXb/eXX.c.e/h...X.X/XcXhebe;14
+Hogan's Heroes;XXXXXX.e/XXXXXX.X/XXXXXX.X/XXd.XX.f/a.f....d/X.X.ceca;21
+Frasier;f.c.XXXX/h.X..XXX/X.XX.XXX/X..X.X.c/X..g...X/dg.fdX.h;18
+Route 66;XXXXX.aX/XXXXX.XX/X.dXX.XX/X.ca..XX/.dgf...X/XfXXX.gc;21
+Dobie Gillis;X..eXXX/dgXXXXX/bXXXXXX/f..XXXX/d....Xg/e..X.bf;23
+Quantum Leap;d.XXXXXX/X.XXXXXX/X.XXXXXX/X.XX..ha/Xg..chXX/dc..XagX;18
+Family Affair;d.XXXXa./X.XXXXX./X.XXXXX./d.ceXXX./fefcXXXa;9
+Room 222;XcXXXXXX/ha.XXXXX/XX.f.XXX/X..g.XXX/.h.X...X/aX.g.Xfc;17
+Benson;Xh.XXXXX/dX.X.fXX/f..X.XXX/X..X.XXX/X.g...e./g.d.e.Xh;17
+Newhart;XXeX/XXb./Xhc./XXXb/e..f/Xfch;10
+That Girl;X.dX.dX/X.XX.XX/XbfX.XX/.daX.XX/.Xd..XX/.fXXa.b;11
+Quincy;XXXX..aX/XXX..edX/a.X..gXX/X.X..XXX/e.gd.g.e;17
+St. Elsewhere;XXXXXXXg/dXXXXX.d/a.XXX..X/e.XX..XX/XaXX..XX/eg..g.XX;14
+Coach;XX.g.cX/XX.fdXX/XX.XXXX/X....XX/X.Xb.fX/.cgX.db;16
+Good Times;XXc.Xe.X/XXX.XX.X/XXX.XX.X/XXX..b.X/e....h.f/bh.fcX.X;21
+Trapper John;Xh.XXX/fX.XXX/ed.XXX/Xf...c/.dcXeh;13
+Bionic Woman;XXgXX.c/X.f.X.X/X.X.X.X/X.X...X/X.Xh..X/fb.cbgh;10
+Cagney & Lacey;XX.eX.e/XX.XX.X/f.a.c.X/gcfgXaX;19
+The Rifleman;Xba.X.e/XXX...g/XXX.X.X/gXX..a./e...gXb;18
+The Lucy Show;XX.bfX/XX.Xd./XX.XX./...XX./bde.f./XXd.e.;10
+Home Improvement;h.fXXXXX/X.XXXXXX/.aXXXXXX/.XXXXXXX/.f..XXd./dg..a.hg;26
+Family Matters;XXXXfX.e/XXXXe..X/XXX.b..X/XX..X..X/g...b..X/df.dX.gX;15
+Diagnosis, Murder;XXX.gX/a.X.XX/X.X..h/X.hbgX/dbdaXX;11
+Dallas;a.XXXXXX/X.XX.hXX/c....XXX/ge.a.X.h/eXgX.c.X;21
+Doctor Kildare;a..aXXX/X..XX.h/XX.XX.X/XX.X..f/f....hX/g..f.ag;20
+The Wonder Years;XXX.hX/.feaXX/.XdfXX/h.ea.d;13
+NYPD Blue;XXXXXd../XXXX.hX./XXXX.X../h.b..fde/f.e..XbX;26
+Twilght Zone;c.b.XXX/X.X.gXX/X...aXa/b...X.c/Xc..gbX;18
+Part Of Five;XXX.cXXX/XXX.XXXX/.a..dXXe/.X..X..f/dX.e.fca;21
+Outer Limits;XX..haXX/XX.XXXXX/XX..f.XX/e...X.../a.fh..X./X.Xef.Xf;25
+Empty Nest;X.dXhX/X.a.b./X.X.X./X.d.X./.hf.X./.fXab.;8
+Here's Lucy;XcXXXXX/Xh.XXXX/XXeXXXX/g.d.d.X/XeXcg.h;20
+Adam-12;XXX.cXX/XXX.XXX/e.X.XXX/X...XXX/.d.f..h/fchX.de;22
+Growing Pains;a.XXXf.X/X.XXXX.X/X.XXXX.X/X.XXXb../h....daX/Xd..bXfh;23
+Seinfeld;Xb.XXXXX/Xg.XXXXX/cX.XXXXX/d...d.XX/e..cX.XX/X.eXb..g;15
+Mannix;bXd.XXX/g.a.XXX/XgX...X/Xc.bcda;13
+Star Trek;XXXX.hXX/XXX..Xa./XX..cfX./X..fXX../h.dac..d;21
+Falcon Crest;.gXXXXXX/.XXXa.XX/..XXX.XX/d.XXX.XX/a.f....f/X.dgX.fX;15
+Alice;XbXXc.XX/Xd.XX.XX/XX.XX.XX/XX.XX.XX/XX...h.h/e.ecdX.b;13
+Knot's Landing;XXXXXh./a.bf.db/X.dXfha;16

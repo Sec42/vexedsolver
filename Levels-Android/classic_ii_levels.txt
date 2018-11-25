@@ -1,0 +1,59 @@
+Albuquerque;......../.hf...e./.eab..fh/.XXX..XX/.Xc....X/..b.a.c.;19
+Fort Wayne;..XX.XX./..d....c/..X....X/.dX...../ha...c.f/bf.b.Xha;27
+Salt Lake City;..a.X..X/..f...../g.X..c../eb..hd.d/cae.ebdh/efafdgXf;26
+Metairie;h.XXadX./X..XXfd./c....XX./X......./.c.ab..b/Xa.hf..X;31
+Las Vegas;X.X...../..XX.e../.e..XX../.a....cf/.Xbhf.hX/.aXXhXcb;17
+Hampton;hXX.XXd./e...X.g./X.....Xe/..a..fgb/..X..dfa/X.h.fXbf;25
+Ontario;......../.h...b.a/.a.Xfa.X/.X..ch.X/a...XXe./ef..gbcg;28
+Worcester;X.X.g.../.d.aX.e./.c.XX.f./.a.X..X./.d.e..../XXfcg...;9
+Amarillo;....d.../h...X.../b..g.X../X..X.X../..X..be./Xghe.XXd;13
+Irvine;.....d../X....X../d......X/X......./h..f..../f..d.dh.;10
+Hollywood;...gh.../g..hg..g/fe.XX.ef/ba.XX.ba/cd....dc/ghXgeXhg;38
+Indianapolis;..XX...X/.c.X...b/.X.....X/..X.Xh.X/...h.dX./..cX.bd.;7
+Fort Worth;dcX...../agde..h./XeXX.fX./Xg...XX./.X...XX./.caf.ha.;15
+El Monte;...Xcd.e/f...Xg.X/X...gX../....X.../..c...../.fd.e...;16
+Philadelphia;.d.d..X./hX.fX.../a..X..../X...g.../eh..a.../XagaXf.e;18
+Boston;gf....../XXb...XX/.XX...a./.X...gX./....ab.d/...dbf.X;14
+Orange;.g..XX.f/.X...d.e/.X...X.X/......ha/.....fgX/e.chfdac;21
+Charlotte;XX.fX.hX/X.hg..X./..XXX..X/..XX...X/..b....X/b.XXf.g.;9
+Chesapeake;X.bhfXX./bcXaX.../cg.e..../XX.X.c../ca.cge.d/Xbhbfcdb;16
+Waco;b..a.hX./X.eXcb../..X.hX../....X..c/a.d..bef/f.h..had;34
+Greensboro;..gf.f.d/g.Xe.X.f/aedf...g/gbhb.faX/ahfX.dec/efeb.cdb;27
+Citrus Heights;..bX..ed/.fX...hX/.X....X./bf...gac/ch.hfcge/dXfXcaXX;30
+Albany;h.Xh.c.a/g.Xa.X.b/X..h...d/...Xe..X/ec.hgbdX/ab.ehabg;29
+Minneapolis;X.ebX..d/..fa...f/.aXX...a/.eX..hfe/.f...ebX/ahXafad.;18
+Rochester;X.cafXXe/..XXXX.f/cb.....c/XXf.g..h/h.a.a..X/Xbdgefdh;35
+New Haven;a..gX.../X.ge..a./..hX.dX./X.e..XXb/..X.X.ed/hd.gbfdf;32
+San Jose;..b....X/..X...../a.X...../Xe..b.../.gh.X..g/aXc.hc.e;16
+Newport News;e...f.fb/dh..X.cg/ag..c.ed/Xe.gacfX/Xfdcgfgf/hdeXfbdg;25
+Flint;.e.XXX../.X....b./.X....Xe/.f....cf/ag..c.gX/XXb.gea.;23
+Winston-Salem;..bde.cX/..cXchXX/hdXXbaX./acb.Xb../eXf.gh.f/ahecbagb;30
+Scottsdale;...c.fX./...X.X.f/.......a/h...c..X/g...d.g./X.dhX.a.;14
+Santa Clarita;..X.c.e./....d.c./.h.XacXX/.d..bX.e/.cf.XX.a/dbhfce.X;25
+Pittsburgh;f..Xh.../c...X.../X......e/X.bg...a/.efd...X/hcXg.abd;22
+Paradise;.cd.fXhc/.Xc.X.ch/..h.d.gc/b.c.f.ch/dabga.ea/fXeachfd;32
+Shreveport;...fXc../...c.Xg./...h..d./...X..X./....gbh./..fhdXbh;10
+Salinas;.a..g.../.e.eX.../.h.XX..b/cXea...f/bcfcd.cg/cghdb.hc;31
+Elizabeth;XX..X.../......../......eX/..Xa..X./...f..../defdhahX;10
+Toledo;..g.X.XX/..d....X/..X....X/.....eX./.chd.Xh./hgebhbc.;16
+Omaha;c.b.c.c./X.X.XgX./Xb...b../gh...ac./bd.daXde/Xbdehcbc;24
+Irving;h.b.X.c./a.Xfg.X./b..gc.X./d.adXd../gehfbe../cadbac.c;24
+Yonkers;...a.a../.a.X.X../.X....../...d..../..gc..../..fgcf.d;11
+Fullerton;.....a.b/c..g.X.d/g..X.eaX/X..h.fX./hd.X.X../ec....fb;22
+Tulsa;..b...../..X..c.X/d....h../X.h.dX../..a.X.../.abec..e;11
+Milwaukee;.X...Xc./..d...X./..ah..../X.Xf..../cd.a...b/XXghgfbX;13
+Little Rock;..gX..XX/..X....c/......Xg/.....haf/..b..XXX/.ac.fhgb;25
+Aurora;c.X..X../X.X...../......../.dbgc.../.cdfgh.h/gfbgac.a;9
+Sioux Falls;X..f.X../c..b..e./g..X..a./df..d.cb/Xd..c.XX/ac.ge.cd;17
+Durham;..X.X.aX/....f.df/....b.gd/.h.bahbX/hXdagcgc/bhcecefd;33
+Mobile;.......X/.d....hb/.X....XX/X......./...a.eah/.c.c.dbe;12
+San Antonio;e..f.X../acfe.h.b/dgdg.g.d/hafc.h.a/dXba.a.h/Xcgf.Xha;21
+Madison;.g..X..X/.X..a.../.X..X..h/...d.X.a/.fhce..e/adfdcgaX;22
+Sunnyvale;.h.c.XX./.f.d..c./.heX..g./aXda..f./b.bfb.h./c.fbgdef;28
+Memphis;..X....e/gb.....X/ef..d.../XX.Xe..f/....X.cd/bX..ecdg;22
+Salem;X......./.a.X..../.f..g.../.X..X.../f...b.../ag..e.eb;7
+Phoenix;..XX..bX/...fc.h./..gXX.dX/X.hge.X./gfbhd.c./dgXef.d.;23
+Oxnard;..e.ba.h/h.d.XX.X/b.b..X.b/heaX...X/bfXdh..d/chfhbcdh;25
+Jackson;f....g.X/g....a../X.XchX../..faX.bc/fhdbd.ed/Xegaf.af;25
+Baltimore;X....X.h/.....f.d/.....b.X/c....X../h.h.cedf/Xfg.bgeX;19
+Grand Rapids;.X..bh../...bXX../X..Xg.../....ac../a...XX../gch.Xh.h;14

@@ -1,0 +1,60 @@
+Lynde Point;XXXXac./XXXXXX./XXXXXX./X.hXXX./..Xad../hbdcb..;15
+Big Tub;XXXXXa./XXXXXf./f.XX.a./Xc...gh/Xgh.cXX;13
+Detroit River;XXXe..a/XXXXh.X/XXXXX.X/XXXXb.X/X...c../b.ahXec;13
+Biloxi;XXXXb../XXX.ag./a...XX./XX..XXb/d.c.X.d/g.X.c.X;18
+Crossover Island;bXXXXXX/h.XXXXX/d.XXXXX/X.e.XXX/X.Xe.f./Xhbf.Xd;15
+Petoskey Pierhead;XXXXXb.X/XXXXXX.X/XXXXeX.X/XXXXb..X/f.X.ah.X/h..fXe.a;14
+Kenosha Pierhead;XXXXbXXX/a..fe.XX/X..XX.XX/Xge.X..X/XXfg..ab;12
+Spectacle Reef;XX.hXX/XX.XXX/XX.XXX/XX.ahX/...hcX/cXadhd;8
+Marshall Point;hXa..aX/d.d.hXX/X.X.XXX/X.X.XXX/X...X.g/X.ga..X;12
+Manistique;XXXXbXXX/XXX.g.XX/XXX.X.XX/XXa.X..d/b.h....X/h.X.da.g;11
+Bete Grise;XXd.XXXX/c.X.XXXX/X.Xg..Xc/X..eX..g/Xe.d...X/XX.X...c;12
+Grand Island;XXXXXX.g/XXXXX..X/XXXXXd.X/XXXc.cfX/gd.dfXdX;11
+Newport Harbor;XXXXX.bX/g.X.d.XX/X.X.X.d./X...XXX./XX..f..f/bd.dX..g;25
+South Bass Isle;XXX..gXX/XXX.XXXd/XXX.Xc.b/cXX..fbf/g....XdX;11
+Mobile Point;XXXXX.bh/XXXXX.XX/Xa.Xa..f/.b.gf.hg;20
+South Buffalo;c.XXXX/b..Xh./X.cXX./X.a.a./X.X.X./Xh..ab;17
+Big Sable Point;X.aXXXXX/X.hXXXXf/c.XXXX.d/Xa..XX.X/XhX..fdc;10
+Port Burwell;XXc.XXXX/XXX.XXXX/XXf..XXh/XXX....g/hcgb.bXf;21
+Au Sable Point;Xa.XXh.X/XX.X.a../Xg.X.XX./XX.X.XX./XX...Xe./.ae.g.gh;22
+Cape Ann Twins;c.Xe..dX/X.XX..XX/X..X..XX/XX.X..XX/XX.....h/.hdXbecb;20
+Cape Hatteras;XXXXXb.X/XXXX.e.X/f.XX.X.X/X.XX.X.X/ag..f.../XXe.aXgb;15
+Point Arena;eb.XX..e/XX.XX.fX/XX.XX.XX/XX.ae.XX/XX.XX.XX/.a.bXfXX;12
+Lake St. Clair;h.XX.g/X.XX.X/X..X.X/X.dh.d/XbhgbX;10
+Chicago Harbor;e.XXXXXX/X.XbXXg./X.XaXXX./X.Xh.XX./e.XX.b.g/XXXh.XaX;8
+Dämman;c.XX.aXX/X.XX.gXX/X.Xg.XXX/X.XX..XX/X...Xe.e/Xha.ch.X;15
+Point Bonita;XXXXdXX/XXXXh.X/e.XXX.e/a..a.gX/X.gd.hX;12
+Cleveland East;.gXXXXXX/.XX.cXXX/.XX.X.fb/.e....XX/.c...X.b/fX..e.gX;22
+Morris Island;XXXXX.db/XXXXX.XX/de.XX.XX/ah.X.eXX/XX...bXX/ha.X.XXX;18
+Prescott Harbor;XXXbXXd./XX.c.XX./XX.XcXX./Xd.XXXX./.e..XXX./fb..fe..;15
+Ontonagon;Xh..XXXX/XXa.eXXX/b.X.XXXX/X...XXXX/X....f.a/Xe.Xfh.b;21
+Fairport;deXXXXX/Xd.XXXX/Xe.X..c/XX.X.Xa/X.....e/acXe..X;19
+Conneaut West;XXXX.ad./XXXX.Xb./XXXX.XXa/XXXh...d/f..f.b.h;11
+Nayatt Point;XXX.fX/XXX.XX/Xfb.XX/deX..g/Xgbe.d;13
+Straitsmouth Isle;XXXXXX.f/XXXXb..X/XfXXX..X/.cX.c..X/.h..f..X/fX..X.bh;16
+Manitowoc;XXX.bXXX/df.dXXXX/Xbab.abf;15
+Faulkners Island;.eXXXXX/.Xc.XXX/.XX.XXX/...aXXX/bg.c.../gXeX.ab;36
+Portland Head;XXXXX.b/aXXXX.X/b...agX/f.gafXX;13
+Old Wicklow Head;XXXd/.g.a/.X.X/..eX/gdfX/feaX;7
+Port Maitland;d.d.g.ae/h.X.X.XX/g.X..eXX/ah...XXX;14
+Lange Erik;XXXX.bX/XXX.gXX/dXX.XXX/c.g.f.X/b.dfX.c;15
+Gull Rock;f..XXXXX/ed.XXXXX/gb...XXX/XX.X.XXX/XX.X..fX/X..ge.db;22
+Old PointComfort;.eX..gb/.XX.XXf/.XX.X.c/f.b...X/ecX.g.X;18
+Indian Island;XXXc.XX/aXXX.XX/c.XX.XX/X.hf..h/afXXe.e;21
+Pemaquid Point;XXXXXXXd/XXXXXX.b/XXc.XXhX/XXX...dh/f.fX.bXc;12
+Sisters Island;XXXXXXe/XXXXX.b/XXXXX.X/XXe.h../XXXXXc./fc.f.bh;19
+Dunmore East;XXacXXe./X.eXXXX./X.XXXXX./Xa.XXXX./.g.X..../ge..a.cX;20
+Five Mile Point;a.gXXXXX/X.XXXXXX/Xe.XXX.d/XXg.XX.X/XXX....X/gd...Xea;23
+Prudence Island;XgXXXXX/XbXXXXX/.c.XXXX/.Xa.XXX/g.XaXXX/bh.c..h;10
+Ram Island;XXX.bXXX/XXX.dXXX/f.X.XX.a/b...XX.X/Xad.XX.X/Xdf....X;13
+Ludington North;XXXXa.XX/XX.fX.XX/XX.XX.XX/XXg..bXX/XXX..e.X/a.eb.Xgf;19
+Old Head;XXXXX.h/g....eg/c..hegc;22
+Lansing;XX.bXXXX/XX.XXXXX/XX.XXXXX/ha..dhXX/aX..XbXX/Xe...e.d;23
+Galley;XXXXXX.a/XXXXXX.X/f.dXXX.X/X.f..g.X/X.a..e.X/XXgXeXdX;16
+Alpena;XXXe.hX/XXXX.XX/XXXX.XX/XXX...b/d.e.dXX/XXb.chc;12
+Peninsula Point;XXcd.XX/X.fa.XX/X.XX..h/..XX..X/..X...X/ahd.f.c;14
+East Point;XXXXXXdX/h.XXXXgX/X.XXX.cX/X.XXX.XX/X..XX.hg/X.d.g.cd;15
+Gray's Reef;XXXXd.h/XXXXfXX/eXX.edX/b..bXhf;11
+Old Port Clinton;Xfg.XX/XXX..a/.bX..b/.XX.Xf/.X...b/g.f.aX;15
+Long Point;XXXX.gX/XX.b.XX/XX.X.XX/e..X..e/bh....X/gXXc.ch;17
+Avery Point;XXd.XX.c/h.X.XX.X/X.X.XX.g/X...g.dc/d..hXXXd;20

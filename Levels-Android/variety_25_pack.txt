@@ -1,0 +1,60 @@
+Orald;XXX.aX/d.X.XX/X.X.XX/X.c..h/.aXh.X/fd.fcX;8
+Ghan-buri-Ghan;f.XXXX/X.XXXX/g.XfXX/X.Xg../X..c.e/.egXcg;17
+Ringwraiths;ahXXXXX/Xd..XXX/.fX..cX/.h...d./cXXXaXf;19
+Eomer;XXX..cX/XX.fXXX/fX.XXXc/g..a..e/X..Xega;19
+Gollum;XX.fXX/XX.XXX/e..XXX/a..cde/fXdXac;20
+Landroval Legolas;XXXXgh.X/X.a.hX.X/g.X.da.X/X..gXhd.;18
+Shirriffs;XXXg.hXX/XXXX.Xg./XXXX.XX./b.c.c.eh/X.e.X.bX;24
+Beorn;XXb..bXX/XXX..XXX/e....XXX/X.gX.XXX/X.e...c./Xgb..cXb;18
+Saruman;d..XXXXX/Xb..XXXX/XeX.XXXX/Xh..XXf./XX...XXf/Xb.XdheX;14
+Fangorn;XXXcXb./XX.b.X./XX.X.X./a..X.../h.hga../c.XXX.g;16
+Dunlendings;XXXg.XXX/XXXX.X.h/XXXX.X.X/eXXd.X.X/d.bh...X/X.gbe.XX;12
+Ben-adar;.feXXX/.Xd.g./.gXfd./.XXXX./.c..X./eX.c..;18
+Crebain;aXXXXX/h.X.bX/X.X.XX/X.X.XX/..gb.f/gaXfXh;13
+Greyhame;XXXXXXd/XXXXX.g/Xf....X/XXd.X.X/XXc..g./d.f..Xc;15
+Elfstone;g.Xf.XX/X.XX.Xe/X..f..c/X..X..g/he.hcXX;15
+LordofBarad-dur;XXXX..fX/XXX..XXX/XX.dXXXX/be.bXXXX/eXgdg..f;19
+Mithrandir;XXd.X.eX/XXX.X.XX/XXX..g.a/XXX..X.d/dage..gX;18
+Kili;c.XXXX.d/X.XXXX.X/X.XfXX.X/X..e.X.X/X.gX..dX/.geXX.cf;14
+Stoors;XXX.aXX/XhX.ehd/.b..XXX/eX.bd.a;17
+Samwise Gamgee;X.dX.h/X.XX.X/X.XX.X/..XX.c/dgh..b/cbX..g;15
+Gríma;g.XXXXX/X.XXXXX/Xb.a.XX/Xg.X.XX/.h.X..a/hb.g.Xg;15
+Galadhrim;XXh.XXXX/XXX.X.aX/XXX.X.XX/XXX.X.ec/XXe...bh/b.aXc.XX;19
+Shagrat;XXcXXXXX/XXe..cXX/XXd..XXX/.aX..X.a/.XX..e.d/.f.f.X.X;17
+Dunadan;XXXXX.eX/XXXXX.XX/XXXXX..h/XXXXX..c/aX....aX/e.heX.ce;15
+Boromir;Xd.XXXXX/XX.XXXXX/XXd..XXX/XdXX.XXX/.f.f.c.a/.c.daX.X;20
+Orcs;XXXXa.XX/XXXXX.XX/e.XXX.gX/X..d..XX/X..c.d.a/XgeX.X.c;14
+Lord Of The Rings;XXXe.X/X.aX.X/X.XX.X/X.cX.X/X.ga../fcfXge;11
+Wandlimb;XX.cXX.h/Xb.XX..e/XX....hX/XX.Xb.eX/..b.ecXX;24
+Hobbits;XXXXgXXX/XXX.aXXX/XXX.XXXX/XXX.a.XX/e...h..X/gh.aX.ea;16
+Dwalin;XXXXX.b/XXXXX.X/.eXXX.X/.XXXX.X/f..cdc./b.eXfdX;17
+Quickbeam;Xd.XXXXX/XX.XfX.h/XX..g..X/XX..X..X/f...b..X/hd..XbgX;19
+The Nine;XXXg.XXX/cXXXb.XX/a.XXXgXX/X..h.a.X/b..X.h.c;21
+Estel;Xc.X.b.a/XX.X.XXX/e..X.XaX/X...b.fX/X.f.XceX;23
+Oliphaunt;X.gXXX/X.cX.b/X.aX.X/X.d..X/d.c..X/bgX.aX;10
+Elrond;fXXXXXX/g.XXXXX/X.a.XXX/X.XdXXX/...f.af/XXdX.Xg;24
+Smaug;XXX.a.h/XXX.XXb/...bg.g/.X.XX.X/aXb...h;25
+Woses;XXgX.aX/bXd..dX/eaeb.g.;16
+Roäc;c.Xf.XXX/X.XX.XXX/X.XX.X.d/d..X...b/X....c.X/Xf..cfbX;17
+Bofur;fXXXXX.e/h.XX.h.X/Xf..hX.X/XX..XX.X/XX..X..X/Xbef..bX;17
+Ugluk;Xf.XXX.d/XX.XXX.X/XX.XXX.X/d....h.X/g.g.fb.X/b.h.XX.X;17
+Oakenshield;c.XXXXX/e.XXXXX/X..XXXX/X..ch.f/.c.ef.X/XX.he.X;18
+Bregalad;XXXe.d.f/h.eX.X.X/X.d....X/XdfhdX.X;16
+Sharkey;e.XXXX.f/X.XXXX.e/X.XXh..X/X.X.d..X/X.X.b..X/b.f.Xdh.;18
+Arwen;XXXg.dXX/XX.f.XXX/X.hX.XXX/X.X.e.XX/X.fhX.XX/.dgXX..e;14
+Ents;Xc.XXXXX/XX.XXXXX/XX.XX.dX/X.hXX.XX/b.c...Xh/dXXb.d.d;21
+Faramir;XaXXXeXX/Xg.X.gXX/Xb.X.XXX/XX.X.XXX/e....db./X.a..Xd.;15
+Dernhelm;X.fXXXX/X.hXe../.eXXXh./.XXXXX./..XXX.a/fa....X;22
+Dark Lord;XX.gXXXX/XX.X.cXX/XX.X.fXX/Xg...XXX/cf...XXX/fX.f.g..;25
+Barrow-wights;XXXX.chX/XXXX.Xc./Xg...XX./XX...b../hg.h.Xb.;23
+Nori;.cXe.XX/.X.d.XX/.a.X.XX/ch...ea/XX..dXh;14
+Pûkel-men;XgXXXXX/Xh.XXXX/XX.XXXX/XX.b.eX/XX.X.bc/c.h.eXg;16
+Ioreth;dXXXh.e/c.e.Xdh/X.a..ac;15
+Tom Bombadil;XXXXahXX/XXXXXd../XXXXXXX./XdXXXXX./Xg....../ch.cga.X;25
+Silvan Elves;XXXXeXX/XXX.fXX/aXX.XXX/e.....d/b.fdbaX;14
+Black Riders;XXXX.gX/h.XX.XX/X.XX..h/.ab...X/gXabf.f;18
+Stormcrow;ha..X/Xg..X/XXXhX/dcac./gXXXd;17
+Otho;.fXXXXXX/.XXXXXXX/.fXXX.bd/.bXX..ec/dc....Xe;22
+Sauron;d.h.XXe/XXX.X.g/XXX.X.X/XXX.X.X/XXf.dh./XXX.egf;10
+Durin’s Bane;gXXXXXXX/fXXXXXXX/c.XXXXXX/X..b.hXf/gb.X.c.h;20
+Imrahil;XX.dXX.a/g..XXX.h/h...d..c/ca..X..g;29

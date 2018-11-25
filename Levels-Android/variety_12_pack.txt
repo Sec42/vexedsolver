@@ -1,0 +1,60 @@
+Mop Noodled Finch;XfX.dXX/.h..XXX/.X..XXX/g..eXXX/hd.g.fe;12
+Tick-tack-toe;XXXb.XXX/XfXX.XXX/XhX..XXX/.g..g..c/.X..X..X/..bfXh.c;16
+Yekko;Xh.dbXX/XX.hd.X/XX.XX.X/X..XX.X/b...g.X/Xg..X.d;12
+Mrs Knox;XXX.a.eX/XX..X.XX/XX.XX.cX/XX.XX.XX/Xh.f..XX/ae.Xfc.h;15
+Pinner Blinn;XXe.XXX/XXX.XXX/XXX..XX/gXXX.d./f.b..gd/X.XXfbe;20
+Zamp;XXXh..XX/Xf.XX.XX/dX.XX.XX/b...f..a/Xa..Xbdh;21
+Nadd;XXXh../XXXXX./XXXXX./fXXXX./b.f.af/Xha.bX;14
+Grinch;a.XXXXXX/X.XX.hXX/X.XX.b.X/X.XX.Xg./X.XX..ba/Xe..ehXg;11
+Looie Katz;XXeXXXX/X.c.XXX/d.X..eX/a.X..XX/X.....a/gc.g.Xd;16
+Zooie;g.XXXXX/X.XXXXX/h.XXXXX/X.dgXXX/f.bd.XX/b.hX..f;10
+Ben B Bicklebaum;XXXXX.dX/XXXXX.XX/XXXXeb.g/c...dX.c/X.Xgb.eX;21
+Dr. Drew;XXXXX.hX/XXXXX.XX/b.XXX.XX/a..aX.XX/X..f..c./XhXX.bfc;15
+Donald Drew;X.gX.cXX/X.XX.XXX/h.XX.XXX/a..d...d/XXgXc.ah;17
+Sally;Xg.XXXX/Xd.XXXX/XX...XX/X..X.../.a..X.f/gc.fcad;29
+Royal Trumpeter;XXXXf.XX/XXXXX.XX/fd.Xe.XX/XX.XX.XX/XX.g..de/g..e.fXX;15
+Bombastic Aghast;c.X.aXXX/X.X.XXXX/X.X.XXXX/X...XXXX/Xhgc.gXX/XXXadh.d;12
+Rosy Robin Ross;Xd.XXXXX/XX.XX.cX/XX.XX.bX/XX.XX.dX/hb..a.XX/cXa.Xh..;24
+Eskimo Fish;XX.gXX/X..hag/X..XhX/..g.dX/.dhXaX;13
+SchnamikkaSchnop;XXXX.bX/XXXX.cX/XXX..XX/cXa.fXX/h.b.haf;15
+Foo-Foo The Snoo;b.XXXX/X.Xe.X/X.Xa.g/X.XX.b/X.g..g/X.Xa.e;12
+Gootch;XXX.fXX/XXX.XXX/XXX.XXX/e.X.XXX/f...hed/db.bXhX;19
+Mr. Sneelock;bXXXg./a.X.a./X.X.X./X..bf./X..Xa./X.bgfX;10
+Brigger-ba-Root;XXXgXXXX/XXXfXXXX/XX.cXXXX/e..f.X.c/X..Xe..X/g..Xb..b;16
+Vrooms;XX.eXXXX/.d.XbXXX/.X..h.XX/h..XX..e/da.b.a.X;15
+Zans;X.g.eX.f/X.X.Xh.X/X.X.XX.X/X.c....X/g.XXX..X/fXXhce.X;20
+Wilberforce;Xe...XXX/XXXX...c/Xh.XX..b/.e..c..X/bX..f.fh;23
+Teenie Godiva;g..hXXXf/X..de..h/d..XfegX;19
+Mr. Brown;XXXXX.e/XXXXX.X/f.f.c.X/Xcb.X.X/.eh.X.X/XbX...h;16
+Jerry Jordan;XXXXeX/.dc.bX/.bf.c./eXXdf.;12
+Sala-ma-goox;cXXXX.cX/he.XX.XX/XX....cX/XX...XXX/.e...XXg/.X..gh.h;30
+Tellar;XXXXXcXX/XXXXXd.X/b.X..f.X/a.d.XX.X/X.X..b.X/X..fXc.a;17
+Foon;XXg..d/XXX..X/X.ah.h/X.XX.X/.aXXfX/dXXfg.;10
+Star Sneetches;h.Xb.XXX/X.XX.XXX/X.XX.XXX/X.h...XX/X.X...ad/bdg.g.Xa;23
+Nolster;XXXXXXg/XXXac.b/XXXXb.X/XXXXX../Xc....h/hgX...a;20
+Ghair;gXXXXXX/ab..XXX/Xec.XXX/XgXbace;12
+Jill-ikka-Jast;XXX.heXX/XXX.eXXX/XXX.XXXX/X..a.gXX/..fXXXXX/hXg.f..a;20
+Zax;f..hXX/X.XXXX/X..Xdc/X...ch/Xf..fd;10
+Strookoo Cuckoo;XXX.a/XXX.X/XXX.X/XXX.d/c.hae/hedcX;8
+Lass-a-Jack;Xa..c/XX..a/X..XX/X..XX/..acX/hchXX;12
+Very Odd Hunch;gXXXXXX/e.bXXXX/X.d.XXX/..X..gX/.c...dX/eX.X.bc;16
+Cindy Who;Xa.XXX.a/Xh.XXX.h/Xd.XXX.X/XX.XXX.X/XX...e.X/da.Xeh.X;15
+Jimbo Jones;fa.XXXXX/Xf..XX.a/XXX.X..X/XX..X.XX/hg..X.XX/gX....ah;23
+Gertrude McFuzz;b.XXXXXX/X.XXX.bX/X.XXX.Xc/X.XX...a/..fb..XX/fcXX.a.X;19
+Snorter McPhail;XXXX.e/XXa..X/XXX..f/XXX.eb/XXa.hX/b.hXfX;9
+Chuggs;a.XXXX/X.XX.g/Xb..hX/XX..XX/XX.afh/g..bXf;14
+Chooie Katz;XXXXb.X/XX.eX.X/XX.XX.f/XX..a.X/X.c.X.X/f.Xecab;11
+Father Of Nadd;XgXXXXX/Xe.gca./ch.ahXe;18
+Beft;Xc.XXXXX/XX.XXX.h/XXhXXX.X/X.bXXX.X/..e.XX.X/egcg..bX;12
+Morris McGurk;X.dXXXXX/X.XXXXXX/X.XXXXXX/g.XXXXe./X.....bg/b.dXh.he;16
+King Derwin;X.hXX/X.Xe./X.XX./X.ed./b.hb./d.bX.;11
+Nellar;XXXXX..f/Xa.XX.gX/XX..X.eX/XXX.X.hX/g.....XX/XfXah.eX;16
+Sgt. Mulvaney;e.Xf.XXX/c..X..XX/h..hb..c/Xb.Xf..e;25
+Guff;XXXb..X/XXXXf.h/c.f.b.X/X.h.X.X/X.Xch..;17
+Tufted Mazurka;Xh.XX/.d..X/.Xe.X/aXX.X/df..h/XeXfa;14
+Bellar;XXXd.XXg/XXXX.XXc/dXg...ce/c.c..XeX;16
+Royal Cook;XXXX.cXX/XXXX.XXa/XXXX.X.g/XXX..X.X/X.e.f..f/a.Xcg..e;17
+Zuff;XXXe..bX/XXXXX.aX/XX....hX/XX.X..XX/XX.X..ab/fh.fXeXX;15
+Gerald McGrew;XXb.Xe.X/XXX.XX.g/XXX.XX.b/XXX.XX.d/X.h....h/e.X.d..g;17
+Gusset;XXa.bXXX/XXX.XX.f/XXX.Xd.X/.f..Xa.X/.X...h.X/bX.d.XhX;19
+Humpf-a-Dumpfer;.bXXXXXX/.XXXXXXX/.XXXXXXX/..XXXXfX/ed..d.h./fb.eX.Xh;15

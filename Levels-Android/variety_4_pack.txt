@@ -1,0 +1,60 @@
+Angelica Pickles;XXXdX.a/XXXb..f/XXXc.XX/XXXX.XX/.....Xc/fXd..ab;16
+The Grinch;h.XXXa/X.X..e/X.X.XX/X.X.dX/X..he./dahXXh;15
+Popeye;XXXXX.f/XXXXX.X/Xb.XX.c/cg..g.d/fX..bdX;17
+Donald Duck;gXXXXXXX/a.XXXX.d/X.XXXX.X/X.XXXX.X/h.d...../f.a.hfXg;20
+Bugs Bunny;XXXX.dX/XXXX.XX/XXX.bXX/XX.cXXX/.e.gXXX/edXbg.c;14
+Lisa Simpson;XXX.c..g/XXX.X.XX/d.f.b.XX/f.XXX.XX/X.c....X/X.Xg.d.b;14
+Winnie The Pooh;XXX.bXX/fXX.XXX/aXX.XXX/f...c../cbh.hXa;16
+Tom Terrific;Xce.XXXX/XXb..XXX/XXX...XX/XX.....h/c.ebcXhc;14
+Speed Racer;XXX..eX/XXX.fXX/X.c.XXX/..X.XXX/.dg..../fXdgXce;13
+Scooby-Doo;XXe.XXXX/XXX.XXXg/XXX.XXXc/XXX.X.fb/......ge/fXb...cX;18
+Tweety;.fXXXXX/.d.XXXX/.X.XXXX/cg...XX/fX.X..g/Xc.g.dX;13
+Alvin;XX.dXXXX/...cXXXX/.XaXXXXX/dXh.X..e/cXe...ah;17
+Superman;XXf.XX.h/XXX.XX.X/X.h.XX.X/..X..X.X/.c...b.X/hXfchX.b;16
+Fat Albert;X.gXXXX/X.XX.fc/X.XX.XX/X.Xf.XX/X..X.Xe/.eh.gch;18
+Wile E. Coyote;a.Xb.X/X..c.b/X..X.X/X.a..d/chd.hX;9
+Bullwinkle;XX.gXXb/aXgXX.c/c.a...X/X.X..XX/XXX..XX/hbh..XX;17
+Pikachu;d.XXXXXX/X.XXXXXX/X.XXXXeX/X...g.bg/h.e.hdXb;29
+Top Cat;Xd.Xgb.X/XX..dX.X/XX..XX.e/XX.XX..X/.d....XX/eXbgd.XX;18
+Mighty Mouse;XXXXX.c/XXXXf.d/XXX.d.e/eXX.e.X/df..c..;17
+Fred And Barney;XXXXXX.h/.g.gXXhX/.ceXXXXX/.XXXXXXX/....X.fX/.Xf...ec;22
+G McBoing-Boing;XXXX.eXX/XXXX.XXX/XXXX..bX/.aX...dX/.X..c.c./.aebX.d.;8
+Pussycats;f.XeXXXX/X.Xh.X.h/X.XX...X/X.XX..fb/Xbh...Xe;18
+Mr. Magoo;a.XXXX/X.XXXe/g.Xa.g/X..X.d/X..d.X/Xe.XdX;14
+Bobby Hill;X.cXX/b.eXX/X.XXX/h.XeX/X..a./cahXb;11
+Arthur;.cXXXX.f/.XXXX..X/..Xbh..e/..ehfc.b;23
+Rocky;X.aXXXXX/..XXe.XX/.X.cX.XX/afgf...e/gXcX..XX;15
+Snoopy;XX.d.h/XX.aXX/XX.XXX/Xf..../ae.eX./df.Xh.;12
+Betty Boop;XX.eXXXX/ea.XXXXX/XX.XXX.f/XX.XXX.d/XXhd...X/XfaX...h;17
+Daffy Duck;bXXXXXX/h.XXXXX/a.XX..e/X...h.f/f.e.Xab;23
+Gumby;XXb.XXXX/XXX.XXXX/h...XXfX/XXe.gXeX/X.h.f.bg;23
+Porky Pig;XXd.X.a/XXX.XeX/XXX..fX/XXX..XX/c.....X/fe.cd.a;13
+Lucy;X.fXXXXX/X.XXXXXX/g.XXXXXX/d.XXXd.X/X....ah./ag..hXXf;22
+Ren And Stimpy;bXXX.ad/e.XX.bg/X...eXX/ag..dXX;17
+Woody Woodpecker;Xc.c.XXX/XX.X..Xb/XX..h..a/XX..X.XX/X...X.d./b.Xa.dXh;18
+Sylvester;XXXXXX.f/a.XXXX.X/X.XXe..X/X.XXfe../X.XXXg../Xh.gha..;27
+Bart Simpson;XXb.XX/XXX..d/XXX..f/XXX.XX/.fcg.X/gXdbcX;13
+Daria;XXXXXa.X/XXXXXXcX/X.gXX.fX/X.f...XX/adXX...c/dg.X...X;17
+Yogi Bear;XXXXX.g/XXXXX.h/e.X...d/X.g.e.X/h.d.dh.;15
+Heckle;.eX.hX/.X.eXX/.X.h.X/...X.X/g.fg.X/X.hXhf;13
+Josie;aXXXXX.h/c.XXXX.X/X.XXXh.X/X.XXXX.X/Xe..eX.f/XaX.f..c;13
+Butt-head;h.XXXXX/X..XXXX/Xc..XbX/Xhg..db/XXcd.Xg;14
+George Of Jungle;a.X.f.h/X.X.X.X/X.X.d.X/X.X.X.X/h...daX/fd.XXdX;15
+Bill;Xag.X.c/.dX.X.X/.XX.X.X/.XX.X.X/.bX.g.c/.da.b.X;9
+Jeckle;aXXXXXX/e.XXXXX/X.XXXXX/g.XXXXX/f..fXXX/Xecac.g;12
+Natasha Fatale;a.d.XXXX/X.X.XXXX/X....acX/XX.d.eXX/e..X.fcf;14
+Beavis;XXX.eXXX/XXc.XXXX/h.a..e.X/XhceXXea;7
+Boo Boo;X.eXX.bX/X.gXX.XX/X.e.c.XX/X.X.h.XX/bc..X.hg;14
+Cartman;g.XXdXX/X.X.gXX/X.X.b.X/X...Xh./bh..cdc;13
+SpongeBo;XXXXX.d/XXXXX.X/bXXXX.X/c..cb.X/afdfa.X;15
+Wonder Woman;f.XXXXXX/X.XXeXXX/X.X.hXXX/X.X.XXXX/X.Xdad../f.XheXa.;10
+Boris Badenov;Xah.XXXX/XXd.XXXX/XXX.ba.X/a.badX.h;15
+Road Runner;aXe.XX/c.X.Xe/b.X..a/X....b/XX...X/XXc.eX;12
+Underdog;XXX.bXXX/XX.fXX.g/XX.XXX.X/g..Xc..X/b...XcXX/f.X..g.g;14
+Space Ghost;XXXdX.b/XXXh..X/XX.a..X/eb.X..X/Xdeh..a;11
+PigPen;XXe.XXXX/.dX.XX.e/.XX.XX.f/.f..Xb.X/.b...c.X/dX...XcX;15
+Homer Simpson;XXXh.XX/...fg.c/a.XXX.h/f.cag.X;15
+Schroeder;XXXXXX.g/XXXdb..c/XXXXX.gX/c...a.XX/X.Xad.bX;14
+Felix The Cat;X..gXXXX/X.cXXXXX/X.XXXXXX/X.XXXX.a/da..X..X/bg..d.cb;21
+Powerpuff Girls;e.Xh.XX/X.XX..d/X.XX..X/h.XX..X/a.a...X/f.de.fX;15
+Charlie Brown;.g.dXX.e/.X.c.X.X/b..X.X.X/dXeb.c.g;23

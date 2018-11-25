@@ -1,0 +1,60 @@
+Boss Nass;f.XXXXX/eh.XX.c/Xf.XX.X/XX.Xc.X/Xb..b.e/XX.Xh.X;13
+Toonbuck Toora;X.c.d/X.X.X/X.X.d/X.e.X/.gX.X/becbg;10
+Daultay Dofine;XXg.X.dX/aXX.X.XX/g.X.X.XX/X.X.X.XX/X.Xd...X/f.gfaX.g;12
+Ric Olié;XXf.XXXX/XXX.XX.a/XXX.XX.X/XXX..X.X/.da.c.dX/.aX.fcaX;12
+Aayla Secura;XXXXXXc./XXXXXXX./XXXXXXX./XXXh..../XX.b...d/cabdaXhX;17
+Dexter Jettster;e.XXXXXX/X..hXXXX/X..d.XXX/X..fc..X/XfXedh.c;20
+Anakin Solo;XfXXXXXX/Xg.XXX.h/XX.XXX.X/Xe.XXX.X/Xc..f..X/ge..XhcX;10
+Dannl Faytonni;XXX.dXXX/XXX.XXXX/XX..XXXX/h.df.X.f/b.hX.X.X/X.b.h..X;16
+Mace Windu;XXXXXXXc/XeXXX.bf/Xa.XX.eX/XX.XX.XX/c...X.XX/Xb.fa.XX;21
+Iaco Stark;XXXd..bX/a.XX..XX/g.Xd..XX/X.XX...g/.f.....X/aXbXf..X;17
+Darklighter;eXXXXXXX/f.XXXXXX/X.XXXXXX/X.XXXX.c/X....X.X/ecagfg.a;15
+Sei Taria;XXXXc.XX/XXXdb.XX/XXXXh.XX/h.X.c..a/X.b.XadX;11
+Darth Maul;XXe.b/XXXfX/XXehf/.dbdh;11
+Orrimaarko;XXXXXa./XXXXXX./Xb..f.c/dcd.baf;12
+Wan Sandage;XXaXXXXX/X.fXXXXX/X.XXXX.g/..c.XX.f/g.X....X/ca.fa..X;20
+Tundra Dowmeia;Xe.XXX.c/XX.XXX.b/XX.XXX.X/cX.XXX.X/d......e/XXbed..X;18
+Bodonawieedo;Xg.XX.e/ce.XX.X/XX.XX.X/a..h.aX/X..c.XX/X.gX.hX;14
+Dorme;e.X.bXXX/X.X.XgXX/X.X.XfXX/X.X..gXX/X..c.X.f/XbcXe..X;16
+Bultar Swan;XXa.XXXX/XgX.XXXX/ch..XXXX/XX....gX/fa.c..fh;19
+Kitik Keed'kak;XXX.eXX/XXX.cXX/XXX.XXX/XXX.cXX/X.afh.a/h.fXe.X;14
+Wedge Antilles;XXXXXXa/X.baX.h/X.XXX.X/g..XX.X/a.....g/XaXh.bX;18
+Queen Jamillia;X.gXXXXX/X.XXXXXX/X.hXXXXX/c.fXXgXX/X.h..b.X/XfX..c.b;10
+Mawhonic;XXXXfXXX/XXXXg.XX/XXXXX.XX/XXXXX.a./XXXXX.ef/ec.cg.Xa;10
+Kendal Ozzel;f.XXXXX/X.XXXXX/Xfa.XXX/XXXa.XX/XX.d..d/XXhfh.X;12
+Luke Skywalker;a.XXXXX/X.X.hXX/X.X.XXX/X.Xch.X/X..aX.e/X..hecX;16
+Kyle Katarn;Xf.XXXX/XX.XX.c/XX.XX.X/.ah.h.X/.Xc.X.X/aXX.efe;15
+Saesee Tiin;XXXe.XX/d.XX.XX/c..X.XX/XX.X.XX/X.fX..f/cbd.b.e;14
+Teemto Pagalies;XXXXXXf/XXXXX.b/XXXX..X/XXXb.g./XX.fhc./c..Xgh.;14
+Dash Rendar;XXghXXX/c.dXXXX/XXfd..X/XXXgcfh;17
+Pablo-Jill;Xd.XX.hX/XX.XX.XX/g..adh.a/XX.Xhg.X;18
+Rune Haako;Xe...b/XX..aX/XX..XX/XX.gXX/..ha.X/hbXgeX;10
+Gen Jan Dodonna;XXa.XX/XXX.d./hXc.a./chf.df;15
+Talon Karrde;XXXX.g/X.aX.X/X.XX.f/XgXX.X/Xd...X/fag..d;12
+Barriss Offee;a.Xf.X/e.XX.b/X.XX.X/X..X.X/fca..X/ebX..c;15
+Dack Ralter;XX.hXXXX/XX.gXXXX/X..XXXXX/XfXXXXXX/.e..XXXX/bhgb.f.e;16
+Admiral Ackbar;XXXXg/d.XXf/X.X.a/X.d.X/X.baX/g.fbX;7
+Vilmarh Garhrk;XXgXXXXX/X.e.XXXX/e.X.XXXX/f.X.XXXX/h....g.d/X.X.fXdh;15
+Nym;XXXX..a/XXXX.hX/d...dga/gX.hXXX;18
+Nien Nunb;X.eXXX.c/X.XXXX.X/X.XXXX.X/d...XX.X/Xge....g/XXdg...c;20
+Ister Paddie;XXXXXc./XXXXbX./XXX.hX./XbX.XX./de..dX./hX.eXc.;12
+Rystáll;XXeb..eX/XXXX..XX/XXX..h.c/XX..XX.d/XXbX...X/d.c.hX.X;24
+Zev Senesca;XdXX.b.d/.h.X.X.X/.XcX.X.X/..b..X.X/..X..h.X/c.g.gX.X;14
+Wald;XXXX..cX/e.XX.XXX/c..c.h.d/h..XdceX;17
+Watto;XXX.fXXX/XXX.a.XX/X.d.X.XX/h.X.X.Xe/d...X..a/f..e..hX;15
+Sy Snootles;XXXXX.aX/XXXXX.XX/XXXXX.XX/fXXXX.XX/g.df.d.g/X.XXfafX;17
+Ak-rev;XXX.gX/XXX.XX/XXX.XX/XX..XX/..eh.a/dhgade;13
+Oola;XXXX.bX/aXXX.dX/d.XX.eX/X..X.XX/X..X.XX/X.aeb.a;12
+Ask Aak;gXXd.XX/e.XX.XX/X.XX.XX/X.XX..X/g...bfe/b...Xdf;16
+Wuher;XXXXX.fX/Xg...gda/df.h.ahX;16
+Neva Kee;XXXXX.e/Xca...X/gXX..gd/d..ceXa;19
+Tas Kee;XXXXX.bX/XXXX.dXX/.hXX.XXX/.f.X..XX/hX.X..XX/XX.fb.bd;8
+Lobot;XXb.XXX/XXX.X.e/XXX...X/a.X..bX/X...bXX/X..geag;15
+General Tagge;XXXXXXXb/XXXa.X.c/XXXX.X.X/XXXX.X.a/XXX.ec.d/d.e.bX.X;15
+Padme Amidala;XXXXaX/XXXXg./XXb.X./XXX.b./XXX.a./gf.fba;12
+Jango Fett;h.XXXg/X.X..h/X.X.da/X...XX/X.d.a./d.h.Xg;15
+Lyn Me;g.X.cXXX/c.X.gXXX/e...XXXX/X...fa.X/X..fXXae;15
+Barada;XX.eXX/bX.XXX/e..XXX/h..XhX/X...bc/.c.eXX;12
+Adi Gallia;b.XXXXXX/X.XXXf.X/X.XXXX.f/Xh.a...X/afbf.XhX;14
+Count Dooku;f.XXX/ge.XX/Xf.XX/XX.Xg/X...b/Xdbde;9
+Palpatine;XXg.XXX/XXd.XXX/XXXfa.d/afege.X;13

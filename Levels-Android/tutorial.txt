@@ -1,0 +1,4 @@
+Lesson 1;XXXXXXXX/X.....aX/X.XXXXXX/X......X/XXXXXX.X/Xa.....X/XXXXXXXX;14
+Lesson 2;XXXXXXXX/.abcfga./.habcfg./hgfedcb./gfedcba./XXXXXXXX;1
+Lesson 3;...ab.../a..XX.../XXaX.b.b/XXXXXXXX/f.f.efec/XXX.XXXX/XXc.cXXX/XXXcXXXX;18
+Lesson 4;XXXXXXX/...cdeb/...bcde/...XXXX/a....../X....Xa/XXXXXX;25

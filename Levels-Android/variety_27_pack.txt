@@ -1,0 +1,60 @@
+Aces Up;XXXXgX/Xd..d./Xf..X./XXh.X./g.X.../f.f.dh;15
+ForeCell;XbXXXX.e/Xe.XXX.X/XX.XXX../XX.XXXX./XX.fe.g./f..Xg.b.;17
+Variegated;Xc.XXf./dX.XXX./g..XXX./a..XXX./X...g../Xfc.dXa;18
+Streets & Alleys;cXXXa.XX/a.XXX.XX/X.XXX.XX/Xh.XX.XX/Xf...cXg/XX.g.h.f;22
+Octave;XXXh.bX/XXXX.aX/eXXX.XX/a.XX.XX/X.....h/be.Xh.X;13
+Senior Wrangler;.aXXXXXX/.XX.eXXX/.XX.XXgX/.XX...c./.Xfc..X./a.gf.Xe.;16
+Fan;XXXfXXd/X..dX.b/c..b..e/X.fXe.c;16
+Demon Fan;h.X.cfX/X.X.XXX/X...XXX/.....f./.hchXXh;22
+Ladies' Battle;h.XXXXXX/X.XXXX.f/X.XXX..X/X..XX.bX/cg....XX/XfcXhb.g;17
+Incompatibility;XXXXXb.X/X.dXXX.f/X.Xa.X.X/X.XX...X/...c...X/dcfXb..a;14
+Grounds4Divorce;XXXXa.X/XXXXX.e/XXX...X/fe..dXX/dX..acX/Xf..cXX;17
+Tournament;XX.hdXXX/XX.XXXXX/X..XXXXX/X...XXXX/.ebeXXXX/bdXg.g.h;13
+Rittenhouse;X.dXXXX/X.XXXXX/h.XXXXX/f...eXX/X...c.h/fe.Xd.c;15
+Clover Leaf;XXcXXXXf/Xgf..XXb/XXXc...c/g.bg...X;21
+Demonthief;XXfXXXXX/XXc.XXXX/XXX.XXe./c.X.XXX./f....b../e..bfX.f;30
+Gloucestershire;Xh.XXXXX/XX.Xb.../fX..cgcf/g...XhXb;21
+Trevi Garden;XXX.aX/XXX.hX/.bf.XX/.Xa.XX/.hXb.f/.XXc.c;11
+Anno Domini;XXXXXeXX/XXXX.bXX/XXXX.gXX/XXXX.dXX/b.hd.XXX/e.Xg...h;14
+Osmosis;gXXXXXX/b..c.XX/d..b..h/Xh.Xdcg;28
+Spidercells;XXXf..bX/XXXX..XX/XXXX..XX/Xf.c..XX/cX.Xh.XX/fb.Xf..h;18
+Czarina;XXXXXXXc/XXbXXX.a/XXaXX..X/X.d...a./d.cXX.ba;16
+Twister;c.dXXXXX/X.XXXXXa/..XXXXXd/..XX...h/......hX/dX..c.aX;28
+Rank And File;XXd.XXXX/XXX.XXXX/X.a.XXXX/X.X.XXh./c.....da/h..b.bXc;24
+Outback;ca..XXXX/gec..b.a/XXg.bX.e;20
+Penguin;f.XXXX/e.X.hX/X...XX/X.da.X/aehXdf;13
+Simon Jester;a.XXXXXX/Xe.XXXXX/hc.XXeXX/XX.X.f.X/XX...c../XX..hXaf;18
+Kingsley;h.Xd.X/X.XX.X/X.XX.X/c.X..d/hg...g/cdX..d;16
+Harp;Xc.XXXX/XXe.XXX/XXX.XXX/.g.d.h./edhg.Xc;16
+Amazons;XXXf.XX/XXXX.XX/d.XX..a/X.XX..h/Xh...eX/ea..Xdf;21
+Number Ten;Xg.XXXX/Xa..XXX/.gc.d.f/Xaf.cXd;15
+Triple Peaks;f.fXXXXX/X.XXXXXX/X.XXXXXX/ea....hg/gXh.a.eX;25
+Raw Prawn;XXXXb.XX/XXXXX.XX/XhXXX.XX/Xb..X..c/.he....f/fXc..e.X;18
+Unlimited;XXX.dXXX/XXX.g.XX/a.X.X.XX/d.X.X.XX/c....gha/X...XhXc;21
+Crescent;a.XXXXXX/X.X.gXXX/X.X.X.cX/e...c.XX/f.fgXea.;22
+Right And Left;a.XXXcXX/d..X.aXX/XX.g.XXX/XX.f.XXX/...X.XXX/fcXg...d;18
+Three Blind Mice;chXXXX/Xc.Xd./Xe.XXd/XX.X.h/Xa...X/XX.Xae;12
+Single Rail;.aXXf./.XX.c./.XX.X./.X..Xg/.g.a.f/.cXc.c;15
+Arizona;g.XXXXXX/X.Xh.XXX/X..e.X.d/X.eX.X.X/..c....X/d.Xh.g.c;20
+Hidden Treasures;f..X..gX/XX...XXX/XXX.gXXd/XXb.h..h/XXd.X.bf;22
+Royal Cotillion;XXg...Xf/XXXXX..a/XXXcX.cX/XX.d..XX/...X..XX/gX.df.aX;18
+Dutchess;XXXXXX.b/XXXXXX.e/XXXXXX.X/XXXXX..X/.ge...aX/aXhb.hgX;20
+Towers;XXc..bXX/XXX..XXX/XXX..X.h/XXXX...e/XX..bf.X/e..Xchf.;12
+Fan Albert;h.XXXXXX/X.XX.cXa/X.XX.d.c/X.XX.X.X/Xf.a.X../Xh.Xf..d;16
+Demon;a..XXXX/b.d...f/acbcfXd;18
+Lady Jane;XXXXXX.h/XXXX..fX/XXXX.XXX/XXXX...a/XX..g..X/ga.Xh..f;23
+Spanish Patience;XXXXXXb./XXXe..c./d.XX..X./X.X...c./X.h...Xb/XhX...de;20
+Archway;XX.cd.h/X.cXX.X/X.XXX.X/X.XXX.X/.fX...f/.dh.cdX;21
+Royal Rendezvous;h.XXXXXX/d.XXXXXX/e...X.dX/X..cb.hc/.b.XX.Xe;30
+Lady Cadogan;XX.fXXXX/XX.XX.gX/XX.X..XX/XX...XXX/X.ah..f./hgXca.cX;23
+Black Widow;XXXXX..a/XXXXX.cd/XXXXX.hX/.g....aX/dXc.ghXX;16
+Reserved Pyramid;XXXXX.fX/X.hXX.XX/c.XXX.XX/X..XX..f/......XX/fahaXc.f;16
+Forty And Eight;.cXXXX.f/.XXXXX.X/.XXXXX.X/.XgXXX.X/..c...fa/aXXd..gd;18
+Lady Palk;XXXXXX.h/XXXXXX.X/XXXX.e.X/g...gX.X/hX..b..X/aba.eX.X;20
+Assembly;d.g./chX./Xf../gXc./h.df;13
+Lady Of Manor;h.XXXXXX/b.XXXXXX/X..XXXXX/X...Xa.X/.g...geX/.eXhXXab;21
+Eight Off;XXX..bg/XXX..XX/XXX.eXX/XXXcXXX/b..b.XX/gX.ebcX;13
+Yukon Puzzle;fXXXXXXX/g.XXXXXX/Xa..f.XX/XX.XX.hX/X...a.f./X..hfXXg;19
+Chameleon;b.XXXXX/e.XXXXX/g.XXXXX/X..fXXX/c..e..X/f.bXXcg;16
+Adela;XXc.XXXX/XXX.XX.b/XXX.d..X/XXX.X.../g.dc..a./aXXg..Xb;18
+Shady Lanes;d.XX.bX/c.XX.XX/b.eX.XX/X.d..XX/X.Xf..f/X..e.Xc;15

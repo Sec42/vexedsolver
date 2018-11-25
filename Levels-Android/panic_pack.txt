@@ -1,0 +1,60 @@
+Man Made Monster;XXXXXX.h/XXXXXX.X/XXXXXX.X/.ad....c/hbaeb..X/cXdXX.e.;42
+Near Dark;f..e...d/ac.a...e/dXXXc..f;30
+Caged Fury;Xh..XXXX/gbX..XXX/fdf.a.g./XXbaX.dh;36
+Night Gallery;cXXXXXXX/h.XXXXXX/X.....hf/e..bd.Xc/X.deXfbX;39
+House Of Wax;cd.XXXXX/XX.X.dXX/XX.X.XXX/X..X.XXX/g.ha...g/a.XXc..h;31
+Dorian Gray;XXXXh.X/XXXXX.X/XXfXX.X/g.egcf./c.XXhe.;33
+You'll Find Out;XXXXXX.a/XXXXXX.X/XXXXXXhX/XXXX..bX/XX..dhg./.a.gbXXd;33
+Leprechaun;XXXXXd.X/XXXXXX.X/XX.....e/d.h.g..a/eXXgXahX;30
+Evil Dead II;XXXf.XXX/XXXX.XXX/.bXX.XXX/.XX....g/.d.fhdcX/hg.XcXbX;40
+Grizzly;c..XXXXX/bh....XX/cf.e.h.a/fXaX.ebX;43
+Diva;h..XXXXX/XX.XXXXX/Xa.....e/XXX..a.a/bge.gbXh;33
+Raven Dance;XXXXX..b/XXXX.dXX/XX...bXX/Xc..hegX/.d.egXhc;37
+Nosferatu;XXXXXXe./XXXXXXX./XXXXXXX./c..aXXX./d.fc..../XfaX.d.e;30
+Eyewitness;Xc.XXXXX/XX.XXXXX/XX.d.e.X/XX.XXX.X/cg.....X/gX.hedhc;33
+Jaws III;XXXXXX.g/d....X.d/e.fgfh.c/h.XeXc.X;41
+The Terror;XXd.XXXX/XXXf..XX/XXXXX.dX/XXXc..h./Xh.X..X./.fd...Xc;27
+Salem's Lot;Xb.XXXXX/XX.XXXXX/XX.XXXXX/XX..hX.b/...gXX.X/dh.de.ge;30
+Evilspeak;Xd.XXXXX/Xb..b.XX/dc..a..c/aX.XXg.g;31
+Nightmare Castle;XXXXX.fX/XXXXX.XX/XXXXX..d/XXXX.a.X/cb...X.X/aXcb.f.d;29
+Patrick;Xg..XXXX/fca..g../aXX.bfbc;35
+One Dark Night;Xb.XXXXX/XX.fXXXX/XX.XXXXX/.......b/hg..eg.X/eb.fXX.h;37
+Cat O' Nine Tails;X.aXXXXX/h.XXXXXX/X..X.f.g/.....dah/.f.ghXdX;39
+Teen Wolf;X.a.eXXX/X.XXXXXX/X..XXXXX/gh..XXXX/XX.f...h/Xgah.eXf;33
+Old Dracula;cg....XX/ede....a/XgXahdhc;43
+Duel;eXXXXXXX/a.....cX/Xh.a..g./XeXXgcXh;30
+Hell Knight;XXXXXXXd/XXXXXX.a/XXXXXX.X/h.....da/X..fc.fh/X..hX.Xc;38
+Road Games;XXc.X.h/c.e.X.X/X.X.X.X/X.X...X/X.d.h../X.XXced;27
+The Children;XXXXXX.b/Xh..fX.X/XX..XX.X/b.f....X/X.gha.../f.XaX.g.;43
+Christine;XXXX.hXX/f.XX.XXX/X...hXXX/g.g.b..e/XeX.Xf.b;30
+Rage In Heaven;XXg.XXXX/XXX.XXXX/XXX.X..b/f....Xhg/b.chacef/a.XXXeXX;52
+See No Evil;XXXXXX.b/XXfh...X/egab...g/dhdefXaX;47
+Night Must Fall;XXXXXgX/b....f./dah..bX/hfXd.ga;36
+The Psychopath;g.bXXXXX/c.XXXXXX/X.XXXXXX/f..XXXXX/Xg.....e/.feb.X.c;34
+The Raven;XXh.XXXX/XXX.XXXX/XXX...bX/f.he.dh./X.ed.bXf;37
+The Unearthly;f.XXXXXX/X.XXXXXX/a..XXXXX/X...b.hb/fh..XXXa;24
+House Of Usher;h.XXX.bX/X..XX.gX/X..e..XX/X.hd.XXg/XXXe.bhd;33
+Paranoic;d.Xg..ef/f.XX.XXg/X..X.XXX/XX...XXX/de....XX;25
+Hellraiser;XXXX.hX/XXXX.ec/ac...ge/hXa..Xg;31
+Theater Of Blood;XXXXaXXX/XX..c..f/b.c.e.ge/X.afXbXg;50
+Cujo;XXXa.X.b/XX.d..bd/X..cf.XX/f..XX.ca;32
+Deadly Blessing;.fX..e.f/.XX.XX.X/.XX.XX.X/.d..XX.X/.X...h.d/e..f.XhX;27
+The Boogeyman II;XXXXXX.c/XXXX...X/XX..bh.g/f...db.X/gcXdXhf.;37
+Bloody Birthday;XX.adXa./...ebdcg/c..XXgbe;38
+Day Of Wrath;XXXX.bXX/XXXX.XXX/XXd..XXX/XXX....X/....abcg/e.ageXdc;36
+Horror Of Dracula;Xh.cXX.g/XX.XXX.X/XX.XXX.X/h...XX.X/fc..e.af/gXXaX.Xe;33
+Day Of The Dead;XXXXX..h/XXXXb.ea/XXXXXXXg/ed...b.a/hg...XdX;33
+Creepers;XXXXXX.d/XXXXXX.c/f.XXXb.X/X..f.h.g/bh.gdX.c;33
+Bordello Of Blood;f.XXXXXX/c.XXXXXX/X...XXXX/XX.h...b/f..eXcXh/a..b.aeX;33
+2,000 Maniacs;XXXXX.bX/d..bX.XX/X..XX..g/g...e..X/X.X.X..X/....X.de;29
+Twisted;XXXXe.cX/h.XXX.XX/g..XX..X/c.had.../d.XgXea.;37
+House IV;eb.XXXXX/XX.XXXXX/XX..XXXX/XX.....X/.efc..gd/gdcXb.fX;39
+The Black Room;c.XXXXXX/e.XXXXXX/X.XXXXXX/X.XXhgXX/....gdae/.adXXcXh;38
+Bluebeard;XXXXXXe./XX.fXXX./Xf.XXXX./XX..XXX./bahe..../ahXb....;32
+The Severed Arm;XXXXXX.a/XXXXXX.e/XXXXX..X/XXXXX..e/gfa...eX/fXh..hg.;36
+Homebodies;XXXXfXXX/X.e.c.XX/X.dXX.XX/X.XX..XX/X.b.f.../..cXXedb;36
+The Wolf Man;e.XXX.aX/X.XXX.XX/X.XXX.XX/b..X...g/X.a.h..c/hegcX.bX;40
+Conqueror Worm;Xf.XXXXX/XXe.XXXX/XXX.XXXX/Xb...XgX/.a....fc/cX.Xaebg;41
+The Fifth Floor;e.XXXX.a/X.XXXX.b/X.XXX..X/Xd..X.XX/XXc.d.hX/b.haXec.;36
+The Uninvited;XXX.bXXX/XXX.XXXX/a...XXXX/g.X...gh/d..hcecX/XXXaXdeb;44
+Blackenstein;XXX.hXXX/....eXXX/cba.de../bfdcfXah;52

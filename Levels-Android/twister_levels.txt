@@ -1,0 +1,60 @@
+Tornado;XXX..fXX/XXX.XXgX/.eX.X.eX/.XX.X.XX/.XX...XX/...e..gf;21
+Helm Wind;.bXXb.Xg/.XXXg..a/.XXXX..X/.g.XX..X/.X.....X/....aX.X;18
+Solar Wind;XXXXX.b/b.c...X/XcXX..X/.h.c..h;17
+Puelche;e.c.XXXX/f.X.XXXX/X.X.cXXX/....e.ef;16
+Thermal;XXXX.aX/g....XX/XXX..XX/XXX..XX/eXX..Xe/a..g..g;15
+Chinook;c.XXhX/h.X.b./X.X.X./X.X.X./X....h/X.Xb.c;14
+Storm;XXXX.gXX/XXXh.XXX/a.eg.e../X.XXXh.a;27
+Breath;XXXca.XX/e.XXX..X/baec..b.;26
+Eurus;XXXXXXXe/XXXXXX.a/Xh.XXX.X/XX.XX..X/X..g..hX/geXa..XX;22
+Samiel;b.XXXXXX/X.XXXXXX/d.XXXXXX/X.XXXXXX/X..XX..a/ea..de.b;20
+Gale;a.XXX.gX/X.XXX.XX/X.XXX.XX/X.dX..XX/h.g.h.ad;19
+Gust;be..XX.g/gXX.XX.X/a...e.ba;19
+Calm;XeXXXXXX/Xf.XXXXX/XX.X.f.a/ha...h.e;19
+Candelia;XXXXXXfX/XXXXX.e./Xh....Xe/gf.g...h;16
+Updraft;bXXXXXXX/ga..g.XX/XXXXbg.X/XXXXXX.X/XXXXXX.a/XXXXXX.g;15
+Auster;XXcXXXXX/XXe..eXX/XXXX.XXX/XXXX.XXX/XXXX...g/bg....bc;17
+Haboob;XX.cXXXX/XX.XXXf./Xf.XXXX./dc.XXb../XX..XX../Xb...d..;17
+Tropical Cyclone;XXg.XXXf/XXX.XX.g/XXX.XX.X/XXX.XX.X/XXX.XX.X/bfe.e..b;16
+Downdraft;a.XXXgXX/g.XXXa.e/e.h..h.X;16
+Cyclone;XXXXXX.g/XXXXXX.X/Xe..fX.X/Xg..XX.X/fb...e.b;16
+Wuther;XXXg.XXX/a.aX.XXX/X.b....c/..XX.X.a/cXX..gbX;26
+Tebbad;ba.XXXhX/XX....bg/g....hab;22
+Lake Breeze;c.XXXXXX/d.XXXXXX/X.XXXXXX/X...X.cg/dgdb..bX;21
+Capful Of Wind;XfXXXXXX/.a.XXXXX/.X.X.a.e/b....X.X/f..XXX.X/X..be..b;20
+Notus;XX.aXXX/XX.XXXX/XX.XXXX/XX.XXaX/g....gh/e...hea;18
+Blustery;g.XXXX.d/a.cXXX.c/X.a.XX.a/X.d.g..X;20
+Zephyr;XXXXX.e/XXXXX.g/gXXX..X/f.XX.XX/ge.d.df;20
+Breeze;XXXe.XXX/.bXf.XXX/.XXX.XXX/.XXf.XXX/..hX.XXX/..f.e.bh;17
+Hurricane;XXX.gX.e/a.e.XX.X/c.XXXX.X/X.XXXX.X/a.XXXX.X/e..c...g;17
+Wind Chill;c.XXXXX/X.XXXXX/c.XXXXX/Xh..XXX/Xfe...c/XXhf..e;16
+Levanter;XXXXXX.d/XcXXXX.X/XdXXXX.X/Xa...X.X/XX.b.c.X/b..adX..;17
+Boreas;e.X.beXX/X...XXh./X..XXXX./X..XXXX./X..XXX../.b.geh.g;17
+Roaring Forties;XXXh.XX/XXXX.XX/XXXX.Xe/aXX...a/h...X.f/ef..h.X;18
+Squall;XXXXXX.h/XXXXX..f/XXX...XX/XX.e.XXX/XX.XXb.f/.c.bhecX;31
+Twister;XXXb.XXX/XXXX.XXX/XXXX.XXX/c.a..XXX/X.gch.hg/..aXX.Xb;27
+Typhoon;XXXXXXa/XXXXX.b/bf....f/XX..adX/d..XXfb;26
+Friagem;XXX.aXXX/X.gcXXXX/X.XXXXXX/...b.XXX/...X..bd/cd..g.Xa;23
+Simoom;XXXXXXXa/h.XXe..e/X.XXX..X/X.XXX.XX/b......f/f..ahX.b;26
+Dust Devil;X.gXXXXX/c.XXXh.e/g....f.c/e....Xhf;26
+Half A Gale;c.g..XXX/X.XX.f.X/Xd..fa../Xa.dXc.g;25
+Sea Breeze;.fXXXXXX/.XX.df.X/h.X.XX.h/X.X.X..X/X.X....d/Xh.cd.cX;25
+Williwaw;X.eXXXX/XeXaf.X/Xc.XX.X/XX..Xb./fb...ac;24
+Trade Winds;dXXXXd./b.XXXg./X.XXXX./X.XXXX./f..XXXf/g.eb..e;24
+Aquilo;XXXXXX.b/XXXXXf.X/XXX.bX.X/Xe..X.a./.acfe.c.;24
+Keen Blast;Xd.XXXXX/gX.XXXXX/cf.XXXXX/hX....../cfhg..Xd;24
+Mariah;Xa.XXXXX/XX.XXXXX/.e.XXXXX/.X.h.XXX/..fX...X/..ecfcha;22
+Bise;XX.dXX.h/XX.XXX.X/XX..XX.X/XXe.XX.X/X.b...dX/eah...ab;18
+Stiff Breeze;XXb.XXXX/b.X.XXXX/d...XXXX/e.g..XXX/XgXX.X.d/.eg..e.X;23
+CAT;X.bXXXXX/X.XXXX.h/X.XX...c/X.XX.X.X/e.f.f..X/c.b.X.eh;23
+Polar Night Jets;b.XXXXXX/X.XXXXXX/X.XXXXXX/X.XX.hXg/g....X.a/Xch.ab.c;21
+Fresh Breeze;XXXXX..f/a.XXX.hX/X.h...eg/X.a...Xe/XXX.fgXX;22
+Horse Latitudes;XX..dXX/h..XXd./X..XXX./XXa.XX./.fXf.X./chca...;23
+Second Wind;c.XXXXXX/X.XXXXXX/X.XXXX.c/X.Xg.h.X/a..a.g.b/b.hX.X.X;23
+Foehn;XXXh..bX/XXXX..XX/XXXX..XX/XXXX..dX/.a....eb/eX.h..ad;22
+Anticyclone;bXXX.fXX/f.X..c.d/h..d.bhc;22
+Simoon;XXXXX.eX/X..eX.XX/Xfhb..XX/dhdX.fb.;22
+Elephanta;XXXXX.aX/XXXXX.XX/XXXXX.XX/Xc.XX.XX/ha.XX.dX/fd...chf;22
+Hadley Cell;cXgXXXXX/g.b.XXXX/X.X.XXXX/d.X...aX/a...dXbc;22
+Favonius;f..XXXcX/XX.XX.aX/XX.XX.hf/XX.X..XX/XX.....e/e..haX.c;22
+Willy-willy;XXX..hX/XXX.Xg./XX..XX./b..ghf./fa.baX.;22

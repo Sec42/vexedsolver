@@ -1,0 +1,60 @@
+Two Of Spades;XXXdf.X/.b.ah../fadXXbh;20
+Two Pair;e.e.XX.d/XfX.XX.X/.cX.XX.X/.X...X.X/.efc.X.X/.XXde..X;18
+Royal Flush;.aeXXXXX/.XXXXXXX/.XXXXaXX/.XXX.gXX/...h.hXX/eX.f.g.f;13
+Jack Of Hearts;XXbaXX/X.dXXX/X.XXXX/.g.XXX/aX.XXX/fbdf.g;14
+King Of Hearts;XXXXXX.e/XXXc...h/XXXXX..X/XXXXg..X/XX.fc.hX/f..eX.gX;11
+Queen Of Clubs;XXXXeXXX/XXX.g.XX/XXX.X.XX/.ca.X.gX/eXc..hah;16
+Ten Of Diamonds;XXXXXbX/XXXXXe./XXXXXX./fXXXXX./c.X.e../d.bcf.d;21
+Nine Of Spades;XXXX.bXX/XXXX.XXX/XXXX.XgX/XXXX..bX/eh....XX/bXe.g.bh;20
+Ten Of Spades;XXXXXf.X/XXg..e.X/XXX..X.h/XXX..X.X/.c.....g/hX...ecf;18
+Three Of Spades;Xe..bf/XX..eX/X.c.XX/X.X.XX/a.f..X/X.Xabc;14
+Queen Of Diamonds;Xb.XXXX/XX.XXXh/XX.XX.c/c....cf/fhc..Xb;17
+Ten Of Clubs;Xd.a.X/XX.X.X/XXe..X/f.X.dc/X..afX/X.cXeX;13
+Eight Of Hearts;Xaf.XXXX/XcX.XXXX/.b....../cfea.eXb;16
+Four Of Diamonds;XXXXfXXX/XXXeb..h/XXXXgf.X/XXXXXX.X/XXXX...X/heb..XgX;21
+Eight Of Clubs;Xf.XXX/XX.XXX/XX.X.c/XX.X.X/..af.X/agdcdg;8
+Four Of Hearts;XXXXXX.a/XXh.XX.g/XXX.XX.h/XXX.fX.X/a.X.e..X/gfe.X.XX;20
+Four Of Clubs;XX.dX.d/XX.eX.X/XX.dX.X/g..Xf.X/X.gXX.X/Xfe...f;12
+Queen Of Spades;XaXXXXXX/.hXXXXbX/.XXXX.fX/..XXX.XX/c.....bX/f.h..Xac;30
+Wild Card;XXXXXX.g/XXXXXX.X/f.XXXX.X/c.XX.d.X/X....Xf./X.bdc.gb;17
+Six Of Clubs;b.XXXXXX/g.XXXX.b/X.X.dX.X/X...X..X/Xa.g..XX/Xg.dX.a.;17
+Nine Of Hearts;XXXXX.e/XXXXX.X/XXXXX.X/XXe...X/aXhc..X/gcga.hX;19
+Six Of Spades;XXXXbX.h/XXXXd..X/g.XXX..X/XhXXX..X/Xb...d.X/Xg..Xg.g;14
+Ace Of Spades;XXXX..b/XXXX.XX/c.XX.XX/X.XX.XX/.gXb.f./dcdg.Xf;8
+Six Of Diamonds;XXX.c.e/XXX.e.X/Xf..X.X/XX..X.X/XXa...b/b.cXf.a;15
+Seven Of Spades;XfXXXXX/Xc.XXXX/XX.bXXX/XX.eXXX/b..g.../Xcge.Xf;11
+Five Of Spades;XXdXX.cX/gbe.X.XX/ecd...gb;26
+Six Of Hearts;Xgh..XX/dece..X/XXgdh.c;11
+King Of Spades;b.f.X.a/X.X..fX/X.X..XX/X.X..XX/.da..XX/.bg.gdX;10
+Nine Of Diamonds;ba..g.g./XcebecXa;14
+Jack Of Diamonds;XhXXXXX/.e..XXX/.XX...X/.f.gc.X/.XhXg../..c.Xfe;17
+Jack Of Clubs;XXXXXXXd/XXXXXX.e/aXXXXX.X/bXXX.h.X/e.X..d.X/bh.a.X.X;15
+Three Of Clubs;XXd.XXXX/.eX.fXXX/cX.dXXXX/a..XXXXX/Xf.XXX.c/Xa.e...X;14
+Ace Of Clubs;XXXXd.X/XXXXXdX/..fa.cf/h.ch.aX;19
+King Of Clubs;XXXXXf./XXXXXX./g.XXX.a/b.Xf..X/X..b..X/XeaeX.g;17
+Seven Of Diamonds;X.bXXX/d.XX.h/g.XX.b/X.XX.X/X.g..X/X.hd.h;10
+Pair;Xe.XXXXX/XXeXXXXX/X.afXX.c/X.gXXX.X/X.a....g/c.XX...f;19
+Eight Of Spades;Xg..bXXX/XXg.gXXX/XXX.XX.b/b.X.X.hX/X..f..Xh/X.XXX..f;17
+Ace Of Diamonds;b.XXXXX/h.XXXXX/X..aXXX/X..XXXX/h..b.XX/X.chahc;11
+Three Of A Kind;cXXXX/b.XXX/X.X.b/X...X/fd..X/defec;13
+Two Of Hearts;XXXXXc.X/e.XXXX.X/h.XXXX.g/X......h/g.Xceg.g;25
+Two Of Diamonds;aXXXXX/f.X.eX/X..fXX/Xega.g;9
+Two Of Clubs;XXXXXXXc/.gcXX..d/gXe.X.bX/XXX...dX/be..X.XX;14
+Nine Of Clubs;Xg.XX.bX/XX.XX.XX/XX..X.XX/XXX.X.bX/X.....fc/fce...ge;20
+Three Of Hearts;bXXXXXXX/f.XXXXXX/X.h..fXX/X.e..XXX/X.d...he/b.X...Xd;19
+Straight Flush;X.hXX/X.X.d/X.X.X/g.d.X/X.h../b.bhg;17
+Five Of A Kind;XXXXXXXh/aXXXXX.d/f.XXXX.X/h..XXX.X/X.aX...X/X.fd.aXX;15
+Seven Of Clubs;XXXdXX/X.gfXX/X.XXXX/X.XXXX/X.fe.g/e.hd.h;18
+Five Of Diamonds;XXXXXXhg/XXXXX.cX/XXXXX.XX/.c.eX.XX/cX.XX.../e.h.c.Xg;11
+Ten Of Hearts;XXXXXc.c/XXXXXX.X/XXXX.a.X/XX.f.X.X/X.dXd.XX/h.fha.XX;10
+King Of Diamonds;X.fXXXXX/X.XXXXXX/X.XXXX.b/X..XX..X/Xb...fXX/gab..a.g;18
+Five Of Hearts;hd.XXXXX/XX..XX.e/XX..XX.X/Xa...X.X/XXd..X.h/XXe.a..a;17
+Eight Of Diamonds;XXXXhb./f.f.XX./X.X.XX./X...XX./X..h.db/f..X.hd;10
+Straight;f..XXXe/Xa.XX.h/XX.X..X/XX.b..X/..bX..X/hXfa.eX;19
+Five Of Clubs;g.XXXXX/X.XXXXX/h.XXXXX/X..XXXX/..ad.af/dfXX.hg;25
+Queen Of Hearts;Xh.XXXXX/XX.XXXXX/XX.XXXXX/XX.X.aXX/Xd..cf../.cdaXXhf;13
+Four Of A Kind;..fXXc/.dXX.d/fa.X.X/XX.X.X/XX...X/hc.h.a;12
+Three Of Diamonds;Xg.f.XX/XX.X.XX/eX.X..X/b..XX.X/X...d.b/e.g.Xdf;14
+Four Of Spades;XXXXXa.X/XXXXXXh./XXXXX.e./XXXf..X./a..a..e./X.hXXfa.;12
+Jack Of Spades;XXXXXhXX/XXXX.dXX/XXXX.XXX/XX.edX.c/X..cXX.X/e.bh..bX;13
+Joker;f..dXXX/b..a.g./f.bgdXa;22

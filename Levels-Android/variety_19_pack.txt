@@ -1,0 +1,60 @@
+Castle Hill;X.eXXXXX/X.XXXX.e/e.XXX.bg/X..d..XX/X..X..XX/X.Xbg..d;14
+Cobourg East;X.eXXXXX/..XXXXXX/.bc.XXd./.XX..XXd/.XX...hc/.eXh..Xb;16
+Kvitsoy;XXXXd/..h.c/fXXXX/aXXXX/d..../caXhf;21
+McGulpin's Point;XXXXXc.X/XXXXXb.X/d.XXXX.X/b..XXX../X....e.a/Xed.aX.c;16
+Borden Flats;XXXXaeXX/XXXXXf.X/XXXXXX.X/XXXXXX.e/XX.....h/bf.bXh.a;12
+Point Sur;a.XXXXXX/X..XXXXX/XX.X.dXX/XX.X.c.h/.g...X.d/hX.gca.X;25
+Chantry Island;Xd.XXXXX/XX.X.fXX/XX.X.XXX/XX...bXX/X.dg.a.g/b.Xf.X.a;19
+Ballycotton;XXXXXg.X/XXXXXX.X/XXgXXX.h/XXb.X..X/..d.e..X/hXe.bd.X;20
+Kingsville;XXXXXXXd/XXXX.c.b/e....X.X/fdfXcb.e;17
+FourteenFootBank;XXd..X/e.Xe.d/X.cX.X/X.d..X/X.X.../X.aeac;16
+Sand Island;XXXe..a/XXXg..f/XXXd..X/XX.e..X/fd.Xag.;10
+Huron;XXXX.ag./XXXX.XX./XXXX.X../XhX..d.c/da...c.X/XX.X.h.g;14
+Mine Head;c.XXXXe/X.XXe.b/X...g.X/ebgcXeX;12
+Round Island;Xe.Xb.h/XX.XX.X/XX.XX.X/XX.X.bX/h.d..XX/dXge..g;18
+Hano;.bXXX/.agf./.bXc./.XXX./..g../.Xcfa;10
+South Fox Isl;h.XXXXXX/X.XXXXXX/X.X.gXXX/X.X.X.bX/X.dh..gX/X.Xa.adb;25
+Sea Girt;Xa.eXXX/XX.XXXX/.bdg.Xb/adeX..g;14
+Manitou Island;XXXXXd.a/h.XXXX.X/b.XXXX.X/X.XXXX.c/.ha....X/dXX.b..c;18
+Butler Flats;XXd.XXXX/Xec....f/XcX..c.X/df.ecX.X;23
+Manhattan;XXXX.aXX/XXXX.X.a/XXXX.X.X/c.XX.X.X/e..e.g.X/X.gXec.e;19
+Charity Island;XX..dgXX/f..XXXXX/X..XXXXX/X....XXX/.f.a.e.X/aX.eXXdg;26
+Erie Land;XXXXXXXc/XXXX.b.d/XXXX.X.X/bg.X.X.X/de..eX.X/XXgXc...;18
+Lyngor;XXh...XX/XXXdX.XX/XXXh...e/X..b...X/X.cX...X/ceXX.b.d;19
+Port Boca Grande;XXXXcXXX/XXXXb.XX/XdXXX..g/Xa.XX..X/XX....cX/.g.X.abd;17
+Point Reyes;XXX.d.gc/X.a.X.eg/X.e...XX/..c.X.XX/adXXX.XX;17
+St. James Harbor;XXXXXXXc/XXXXXX.g/XXXeXX.e/XX.b..aX/XX.X..XX/g.abc.XX;16
+Michigan City;Xg.XXXX/fX.XXXX/hda..h./agf..Xd;15
+Pelee Passage;XXX.hXXX/c.XhXX.c/X..dXX.X/X..e.X.X/X..Xa..X/XXedX.aX;15
+Kullen;XXX.c.aX/XXX.X.XX/XXc.X.XX/gefg...f/XaXe..XX;19
+Hook Head;XXe.e..b/XXX.X..X/XXX.X..X/XXX.X..b/X.e...dc/cdX..XeX;21
+Pensacola;.aXXXXX/.g..aXX/.XX.XXX/cXX.XXX/f..e.g./X..feXc;17
+North Manitou;.gXXXX/.XXXXX/.XXXXX/..XXd./fh..fb/dgb.Xh;17
+Cabot Head;c.XXXXXX/X.XXXXXX/X.XfXXXX/X.Xc.XXX/X..h.fa./Xe.e.aXh;13
+Michigan Island;XXXcXg.X/XX.hXXg./.c.XXXX./.X.XXg../.Xh..X../hXXX..h.;12
+Sandhammaren;XXXX.f/XXXe.X/XXeh.X/XXaX.X/X.b..a/hfX.bX;12
+Gronningen;Xcd.XXX/.gX.XXX/.aX.XXX/.XX..XX/.....af/X.Xgcfd;16
+Cheboygan Rive;XXX..fX/aXX.XXX/b...XXX/X..XXXX/XX.a.gX/XgafXba;18
+Old Fairport;Xf.X.e/XX.X.X/cX.X.X/b....X/e..hbX/h..Xfc;17
+Dutch Island;XX.gXgX/XX.X.dX/X.gX.XX/X.XX.XX/d..e..a/Xeda..X;14
+Amelia Island;Xc.XXXXh/XX.XXX.g/XX.XXX.X/XX.X...X/X....aeX/agXe.hcX;18
+Fort Gratiot;g.XXXXXX/X.XXXXXX/X..XX.hX/fX....df/bh....bX/dX.X..gX;28
+Grosse Ile;c.XXXXX/Xce..XX/XXX..XX/XXXX.a./XXeX.Xc/f.a.cfX;18
+Falsterbo;XXX..fXX/XXX.gX.d/XXX.Xf.b/XXX..h.X/.....X.X/gX.bh..d;14
+Rawley Point;XXXXa..f/XXX.e..X/bc..c..X/af..eXbX;25
+Crisp Point;eXXXXXXX/bXXXXXXX/d.XXXXXc/X.XXXX.d/X.X..e.X/bf..fX.c;15
+Raspberry Island;XXXXb.XX/XXXXX.XX/XfXXX.XX/Xd.gX.XX/XX.f...a/dagX..bX;17
+Grand Haven;Xa.XX.a/Xc.XX.c/XX.XX.X/XX.X..X/hb....X/bXcXhcX;19
+Hallands;Xd.XX..h/XX..X.fg/XXX.X.XX/b.....XX/X..X...X/X.bfXhdg;17
+Burlington Canal;b.XXXX.d/c.XXXX.e/X.g.XX.b/X.c.de.X/X.X.Xg.X;16
+Landsort;e.XXXX/X.XX.c/X.d..X/c.e.b./XebcXd;12
+False DuckIsland;XbX.eX/.e..Xc/fgf..g/bXX..c;11
+Point Judith;XXXXb..X/.aXXXX.h/.Xd..f.X/.XX..X.a/.....X.h/fXd....b;17
+Penfield Reef;c.XXXXX/X.XXXXX/X.XXXXX/Xa.XXfc/fX.a.hg/h..X.gX;16
+Flowerpot Island;XXX.fXXX/XXX.XXXX/XXX...hX/XXXX..XX/XX....ch/fbhbhXXc;20
+Finngrundet;ah.XXX.f/XX..ac.b/Xf.cXbhX;17
+Sombrero Key;XXd.XXXX/XXX.XXXX/XXX.XXXX/XXX.Xg.b/XX.e.daX/ba.X.geX;16
+Sandy Hook;X.bgXXX/X.XXXXX/X.XXXXX/e.XX.bg/a....ec/X..c.Xa;24
+Minneapolis;Xd.XXXXX/XX.a.XXX/b..X.XXX/X...ca.b/h..dhX.c;28
+Port Colborne;XXXXhXX/XXX.b../XXX.X.c/XX.f.db/d..Xfch;10
+Old Mission;aXXfXX.b/c..e.X.X/X..X.X.X/X..X.X.X/X.f....X/XcXba.eX;12

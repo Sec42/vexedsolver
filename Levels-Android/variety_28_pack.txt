@@ -1,0 +1,60 @@
+Limited;g....hX/e.f.XXX/XhXgXXX/.fea..a;12
+Odd And Even;a.XXXXXX/XfXXXXfX/.a.XXXcX/.X..c.e./c...X.X./aX....Xe;14
+Grand Dutchess;Xe.XXX.h/XX.XXX.X/XX.XXX.X/XX.XXX.X/a.g.g..X/c.ehcXaX;19
+Quadruple;b.gXXXXX/X.e.XXXg/X.b.XX.a/XXX....X/XXX.X.../Xf.fXXea;13
+Hypotenuse;Xb.XX.g/XX..X.X/XXX.X.X/XXX...X/f.e.XeX/g.b.bgf;17
+Interregnum;XXX.cX/XXX.hX/XXh.XX/Xgc..X/.ea..X/aXXe.g;16
+Milligan Harp;c..bXXX/X..h..X/X..gX.X/X..Xc.e/Xbegh.X;13
+Club;X.fd.c/X.dX.X/X.XX.X/X.X..X/X.hf.X/.fcX.h;16
+Fortress Of Mercy;XX.hXXX/XX.XXXX/f..XXXX/dg.XXXX/Xh.c..X/cgdXX.f;10
+Double Klondike;XX.aXXX/XX.fXXX/bX.bXXX/ha.XXXh/fX..g.g;13
+Stalactites;fXXcXX/g.Xa.X/X.XX.a/X.Xh.c/X..f.g/XX.X.h;11
+Gnat;XXXXX.e/XXfcX.X/ahaXX.X/XcXXX.X/Xe..X.X/Xhf...X;9
+Simple Simon;XXfb.XXX/g.XX.XXX/XfXX.XXX/Xh.X..XX/XX.....d/.dhX..bg;21
+Blind Alleys;XXXg.XXX/XXXXb.XX/XX.df..X/XX.XXe.X/XX.X.f.d/e..g.XbX;14
+Wings;XX.faXXX/Xa.abXXX/Xf.XXXXX/XX..XXXX/f.bc...c;12
+Triple Scorpion;Xb.XXh./XX.XXX./XX.bXg./X..c.f./.cgX.hf;10
+Westcliff;Xc.X.g/ag...c/XX..db/db.aXX;15
+Elevens;.eaXXXXX/.XXXXXXX/.XXXXXXX/d.XXXXXX/X.gdXXaX/X.fe..gf;22
+Junction;Xd.XXXX/XX.XXXf/.a.a.be/bXdXfeX;9
+Whitehorse;XXXX.c/XeXX.a/.gXX.X/.c...g/egXa.X;11
+Munger;eXXXXXXX/a.XXb.dX/X.XXX.bX/X.XXX.XX/a.XXX.XX/f.d..f.e;18
+Twenty;XXXXXXf/XXX.a.g/XXX.X.X/d.X.X.X/a...d.X/Xf.ga.X;14
+House On Hill;g.XXXd.X/a.XX.c.X/X.XX.X.X/X.XX.f.X/.....X.X/fXc.ga.d;16
+Sixteens;gXXXXXX/c.XXXXX/a.XXXXX/f.b..../X.XgaX./c..fXb.;12
+Memory;XXXXXcX/Xcbf.hX/.dXX.Xf/.XXX..d/.h...bX;16
+Little Billie;XXXXXXc/XXXXX.a/a.XXX.X/d.....c/XXca..d;14
+Millie;XXXXX.a/fe.X.cX/da.X.XX/XX.f.XX/decX.XX;17
+British Square;XXX.gX/XXX.XX/XX.cXX/X..XXX/dcba../bXadgX;18
+Four By Five;b.XXXXX/X.XXXXX/dc.XXXX/fb.d..c/XXcX..b/X.f...X;17
+Challenge;XXX.g..c/XXX.faXX/XXX.XX.d/XX.gXX.X/XXda.X.X/c.fX...X;15
+Five And Diamond;h.XXXXXX/g.XbXXXX/d..h.XXX/X..d..a./X..ba.Xg;20
+Thirty-NineSteps;XXXX.bXX/X.gX.XXX/fXh..eXX/b.e.fg.h;19
+Agnes Three;XX...dX/XX.Xea./a..XXX./c....c./fdf.Xe.;18
+Little Picture;h.XXXXbX/X.XXX.h./X.X.h.X./..d.XXX./bXe.edh.;14
+Pyramid Seven;Xg.XXX/Xb.X.b/XXeX.X/e.c.a./Xga.Xc;12
+Midshipman;Xf.XX.fh/XX.a..hX/XX.X..XX/Xa.X.XXX/XXdX..../d.h...Xh;19
+Blind Patience;h.Xc..X/a.XXX.f/X.XXX.b/X.X..ba/X..hXcf;10
+Arabella;g.dXXX/X.XXXX/X.XXXX/XfXXgX/.h..aX/Xd.afh;10
+Two Cells;c.fXXXX/f.XXXcX/X..b.a./d..adXb;17
+Flower Garden;gXf.XXXX/f.X.XXXX/X.X..gXX/g....XXX/X..X.XXX/hbg..b.h;15
+Bastion;X.aXXXXX/X.XdXXXX/X..gXXXX/X..XXXXX/ge...dc./Xa..XXec;12
+Diminishing;f.XXaXXX/X.X.bXXX/X.X.XXXX/X.X.hXXX/....fXXX/haX.g.gb;14
+Red And Black;X.bXXXX/c.XXX.a/X.XXX.X/X.aXX.X/h.b...X/XaXachX;13
+Saratoga;f.XXXXXX/X.XXXXXX/X.a.hXXX/X.X.a..X/X.e.X.g./XXXghef.;24
+One234;X.bXXXXX/X.fXXX.c/X.a..X.e/a.Xe...X/b.XcX..f;14
+Eighteens;XXXXXXXh/XXXXXd.a/XXXXXXcd/XXXXX.aX/XXXX..XX/hb..bcXX;14
+Primrose;XXX.hX.h/a.X.XX.X/X.b.XX.X/X.fd..f./X.XXa.db;24
+Q.C.;e.XXXXXX/X.XXX.bX/X.ch..eX/g.bgX.ch;21
+King Albert;XXXXXXg/XXXXc.c/b..Xf.f/d.gbd.X;15
+Puss In Corner;X.hXXXX/X.XXXXX/X.X.fXX/X..cXXX/X.Xe.Xc/e..fghg;18
+Thirteens;hXXXXXX/f.XXXXX/X..aX.d/XX.fX.X/ac.X..X/hX..dcX;13
+Grandmother's;XXXXX.b/XXXX..d/XXXX.af/XhXh.XX/.d.bf.a;16
+Indefatigable;.gXXXfX/.XXX.d./.XX..X./..f.XX./.Xbc.c./X.gbXd.;15
+Racing Aces;XXXXXX.d/Xa.XXX.X/XX.XXh.c/Xe.XXX.X/ac.....X/ed..XX.h;14
+Light And Shade;XXXXh.XX/Xf.XX..h/Xd.XX..X/XX.XX..X/XX..d..e/a..aXXef;12
+Baker's Dozen;XXXXe./.bXXX./.d.X../.X...X/.bXc.X/gcgd.e;14
+Four Winds;h.XXXXXX/X.XXXXXX/X.d.XXXX/X.X.XaXX/Xa.d.e../Xb.beXXh;14
+Betsy Ross;XXXXX.bX/XXXXa.ad/XXXhX.XX/XX.c..dX/bc.Xh.XX;13
+Cicely;XXXX..hX/XXXX.gXf/d....X.a/XX.XX..X/ahf..d.g;29
+Triple Yukon;a.XXXXX/X.XXXXX/X.XXXaX/Xg..bd./Xhd.hbg;16

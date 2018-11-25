@@ -1,0 +1,49 @@
+Tutorial;4;Vexedroid;This tutorial introduces the game basics. It should only take you a minute or two.;http://www.vgart.net/
+Children's Pack;60;Vexed Development Team;Very easy levels meant for children.;http://vexed.sourceforge.net
+Classic Levels;59;James A. McCombe;The classic levels released with the original Vexed!;http://spacetube.tsx.org
+Classic II Levels;59;Steve Haynal;This is the challenging follow-on to the Vexed Classic levels.;softerhardware.com/vexed.html
+Twister Levels;60;Vexed Development Team;Difficult. Many of these levels have twists that add challenge.;http://vexed.sourceforge.net
+Confusion Pack;60;Vexed Development Team;Hard! These levels are tricky and require careful planning to solve.;http://vexed.sourceforge.net
+Panic Pack;60;Vexed Development Team;Very Hard! So hard you'll panic after the first one.;http://vexed.sourceforge.net
+Impossible Pack;60;Vexed Development Team;Impossible. You need to be Einstein to make it through this game pack!;http://vexed.sourceforge.net
+Variety Pack;60;Vexed Development Team;These levels provide a full spectrum of difficulties from easy to hard.;http://vexed.sourceforge.net
+Variety II Pack;60;Vexed Development Team;Continuation of the Variety Pack. From easy to hard.;http://vexed.sourceforge.net
+Variety 3 Pack;60;Vexed Development Team;Variety level pack;http://vexed.sourceforge.net
+Variety 4 Pack;60;Vexed Development Team;Variety level pack;http://vexed.sourceforge.net
+Variety 5 Pack;60;Vexed Development Team;Variety level pack;http://vexed.sourceforge.net
+Variety 6 Pack;60;Vexed Development Team;Variety level pack;http://vexed.sourceforge.net
+Variety 7 Pack;60;Vexed Development Team;Variety level pack;http://vexed.sourceforge.net
+Variety 8 Pack;60;Vexed Development Team;Variety level pack;http://vexed.sourceforge.net
+Variety 9 Pack;60;Vexed Development Team;Variety level pack;http://vexed.sourceforge.net
+Variety 10 Pack;60;Vexed Development Team;Variety level pack;http://vexed.sourceforge.net
+Variety 11 Pack;60;Vexed Development Team;Variety level pack;http://vexed.sourceforge.net
+Variety 12 Pack;60;Vexed Development Team;Variety level pack;http://vexed.sourceforge.net
+Variety 13 Pack;60;Vexed Development Team;Difficulty 50-200;http://vexed.sourceforge.net
+Variety 14 Pack;60;Vexed Development Team;Difficulty 60-200;http://vexed.sourceforge.net
+Variety 15 Pack;60;Vexed Development Team;Difficulty 70;http://vexed.sourceforge.net
+Variety 16 Pack;60;Vexed Development Team;Difficulty 30-200;http://vexed.sourceforge.net
+Variety 17 Pack;60;Vexed Development Team;Difficulty 30-200;http://vexed.sourceforge.net
+Variety 18 Pack;60;Vexed Development Team;Difficulty 40-200;http://vexed.sourceforge.net
+Variety 19 Pack;60;Vexed Development Team;Difficulty 50-200;http://vexed.sourceforge.net
+Variety 20 Pack;60;Vexed Development Team;Difficulty 60-200;http://vexed.sourceforge.net
+Variety 21 Pack;60;Vexed Development Team;Difficulty 70;http://vexed.sourceforge.net
+Variety 22 Pack;60;Vexed Development Team;Difficulty 30-200;http://vexed.sourceforge.net
+Variety 23 Pack;60;Vexed Development Team;Difficulty 30-200;http://vexed.sourceforge.net
+Variety 24 Pack;60;Vexed Development Team;Difficulty 40-200;http://vexed.sourceforge.net
+Variety 25 Pack;60;Vexed Development Team;Difficulty 50-200;http://vexed.sourceforge.net
+Variety 26 Pack;60;Vexed Development Team;Difficulty 60-200;http://vexed.sourceforge.net
+Variety 27 Pack;60;Vexed Development Team;Difficulty 70;http://vexed.sourceforge.net
+Variety 28 Pack;60;Vexed Development Team;Difficulty 30-200;http://vexed.sourceforge.net
+Variety 29 Pack;60;Vexed Development Team;Difficulty 30-200;http://vexed.sourceforge.net
+Variety 30 Pack;60;Vexed Development Team;Difficulty 40-200;http://vexed.sourceforge.net
+Variety 31 Pack;60;Vexed Development Team;Difficulty 50-200;http://vexed.sourceforge.net
+Variety 32 Pack;60;Vexed Development Team;Difficulty 60-200;http://vexed.sourceforge.net
+Variety 33 Pack;60;Vexed Development Team;Difficulty 30-200;http://vexed.sourceforge.net
+Variety 34 Pack;60;Vexed Development Team;Difficulty 30-200;http://vexed.sourceforge.net
+Variety 35 Pack;60;Vexed Development Team;Difficulty 40-200;http://vexed.sourceforge.net
+Variety 36 Pack;60;Vexed Development Team;Difficulty 50-200;http://vexed.sourceforge.net
+Variety 37 Pack;60;Vexed Development Team;Difficulty 60-200;http://vexed.sourceforge.net
+Variety 38 Pack;60;Vexed Development Team;Difficulty 70;http://vexed.sourceforge.net
+Variety 39 Pack;60;Vexed Development Team;Difficulty 30-200;http://vexed.sourceforge.net
+Variety 40 Pack;60;Vexed Development Team;Difficulty 30-200;http://vexed.sourceforge.net
+Variety 41 Pack;60;Vexed Development Team;Difficulty 40-200;http://vexed.sourceforge.net

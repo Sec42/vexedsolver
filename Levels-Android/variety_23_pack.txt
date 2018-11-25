@@ -1,0 +1,60 @@
+Buffalo Bottle;e.XXX.af/g.ad..XX/X.Xe.fdg;19
+Eagle Harbor;XXXXXXeX/Xh.XX.bX/XX.XX.XX/.hd...XX/eXXb.bd.;20
+Nobska Point;Xch....e/XXXX..XX/XXXX..XX/XXXX..XX/...ag..X/gX.ec.ah;18
+Battery Point;XXXXX.fX/XdXX..Xd/.c...e.e/fX..ca.a;21
+Old Long Point;eXXXXXh/h.XXX.f/X..fd.e/Xd.hXhX;13
+Peche Island;Xf.hXb./.e.fXX./.XXXXX./.XXXXX./...c.e./cX.h.b.;19
+Old Pelee;XXc.XXXX/Xaf.X.cX/XXX.X.XX/b.f.X..c/X.b....X/X.Xa..cX;9
+Cove Island;XXXXfXXX/XX.faX.b/XX.XXa.X/XX.XXX.X/XX..f..X/.e..ab.e;21
+Braddock Point;.fXXXXX/.XXXXgX/.e.X.cX/.X.X.gc/fX...XX/c..X.ec;12
+Charles Fort;Xg.XXXXX/XX.XXXXX/XX.XXXXX/XX.f...h/X..a..bX/gh.XfbaX;11
+Niagara River;X.fXXXXX/..bXXe.X/.gXXXX.X/.d.XXX.X/.Xe..X.X/fXdb...g;15
+Pilot Island;d.dXXX.a/X.a.X..X/X.X.X.XX/X.X.X.XX/..c...XX/cha..hdX;13
+Carquinez Strait;.dgXXXXX/.Xb.XXXX/.XX..XXX/.ga.a..c/cdX.b..X;20
+Munising Range;XX.dXXX/XX.b..a/Xd.Xf.X/XXXXX.X/.f..b.X/aXe.e.X;16
+Loop Head;XX.fXXXX/gX.XXXXX/h..XXX.a/X..X.g.X/X..f.adX/X.hd.XXX;11
+Perry Memorial;Xa.XXXf./XX.XXXh./XX.g..a./.d.X..X./.X.X...f/.d...hXg;11
+Prince Edward Pt;Xb.XXX/XXh.XX/XXd..d/f.X..h/X....a/a.Xf.b;16
+Hereford Inlet;XXXX.aXX/XXXX.XXX/XXXg.XXX/XXXX.gXX/.a...b.c/bXf.fc.X;12
+Rear Range;XXXXXX.c/XXXc...X/XXXXX..X/XXXXX..X/X...fhfb/eh.beXXX;18
+Ashtabula;XfXXXX/Xh.XXX/XX..Xa/.b.a.c/cX.h.X/Xf.X.b;15
+Ashland Break;XXXXhXXX/XX..d.fX/XX.XX.XX/X..XX.XX/X.hb..Xc/fdXc...b;17
+Odderoya;XX.gXXXX/X.fXXXXX/X.XXXXXX/XcXXXXXX/Xe.....b/gcX..bfe;15
+Point Gratiot;bXXXXXX/c.XXXe./X.X.fX./X...Xe./Xc.afba;13
+Old Mackinac;XXXXbXX/XXX.cdX/...fXhX/bXdchf.;12
+Sodus Point;fXXXXXX/ece...f/decd.Xe;13
+Stratford Point;.hXXX.e/.XXXX.d/.Xd.X.X/.XX.X.X/f.a...f/X.hXeXa;21
+Buffalo Main;XXb.XXXX/XXX.XXXX/XXf..XXX/XXXe.XXX/XXXf...a/heahb..X;18
+Grand Marais;Xf.XXXXX/XX.XXfXX/XX.X.b.b/XX.X.e.e/XX.X.X.X/g.eg...b;20
+Absecon;XXXXb.e/XXXXX.f/a.XX.dX/e.XX.XX/d...fXX/XaX.bXX;15
+Robert H Manning;XXXg.XX/XXXX.XX/a.XX.XX/d..a.b./X..b.Xg/Xhdh.XX;11
+Stony Point;XXXXd.X/XXXXc.X/XXX.f.X/cXX.X.X/b.....b/dbfc..X;19
+Erie Pierhead;g.XXXXX/b.XXXg./X.XXXX./g...e.f/bfX.g.e;17
+Governor's;XX.fXXX/.a.a.eX/.X.f.XX/.X.XfXX/....d.X/Xea.X.d;11
+Oswego West;XXXX..aX/XXXd.XXX/d.XX.XXX/X.XX.XXX/e.ac...X/h.ch.X.e;18
+South Rock Ship;X.gX.hXX/e.h..XXX/X.d...XX/X.X.X.XX/X.X...ad/g...eXXa;18
+Cape Henry;XXXXXXb./XXXXXXX./XXXX.gX./Xef..XX./.cX....e/cgXXf.Xb;14
+South Hyannis;gX.bXXXX/bX.eXXXX/e..XXXXX/X......c/c.e..gXe;22
+Lindesnes;hc...XX/XXXX.XX/XXXX.XX/XXXX.Xe/Xf...hb/XX.bcfe;13
+Sand Hills;.hXX.gX/.XXX.Xh/b..X..d/XXhg..X/..dX.XX/b.Xh.XX;18
+Finns Point;XXXfXX/XXXc.h/f..b.d/X..X.X/Xd...c/XhXX.b;12
+South Manitou;XXX.hcX/XXX.chX/....aXX/aX..Xh./XXX.XX./X.c.c..;19
+Oakland Harbor;XXd.XX.a/XXX.XX.X/XXX.aX.X/b.X.XX.X/X.h..h.X/d.bd.XdX;16
+Saginaw River;XeXXXX.b/Xc.XXX.X/XX.XXX.X/XX..XX.X/g....e.d/XgdcXX.b;15
+Bristol Ferry;XXX.ed/a..cXX/c..h.X/XdeahX;9
+Cape San Blas;g.XXXXXX/X.XXXXXX/.aXXXXXX/.XXf..ga/...X..Xf/.g.e.geX;24
+Sapelo Island;a.XXXXX/X.f.bXX/X.X.d.X/X.X.X../X.X.XXf/Xdb..aX;13
+Chatham;XX.bXXX/X.eXXXX/e.XXXXX/Xcg...g/beX..ce;15
+Stamford Harbor;X.hXXXX/..XXc.X/.a..e.a/.XhfX.f/..ec..X;11
+Split Rock;g.geXXX/X.Xa.XX/X.XX.XX/X.XX..e/Xa....X/XX.c.ec;9
+Point Pinos;XX.gXXXX/XX.XXXXX/X.g.XXXX/X.X....g/..X.bcfX/gXX.Xfbc;16
+Saybrook Break;e.XXXX/Xf.XXX/XX.XXX/XX..ef/X...bX/bfc.fc;10
+Pomham Rocks;c..dX.fX/X..aX.XX/...XX.XX/.X..X..f/.dX.X..c/aXX....f;14
+Curtis Island;XXXf.XX/XXXX.XX/XXhc.XX/XeXX..f/.f....X/.hch.eX;16
+Colchester Reef;XXXXXegX/XXXX.fXX/f.X..d.X/X.X..X../X...hXX./XhX.gdXe;14
+Port Stanley;XXXXXXb./.gXXXXX./.XXXXXX./.XXXXX../.Xf.X.aX/.gacf.bc;14
+Cape Croker;XXe.XXXX/.gh.XXXX/.XX.bX.f/.XX.XX.X/g.e.XX.f/b.XhXX.X;8
+Landsort Harbor;hfg.fXX/XaX.XXa/.g..b.b/hX..XXX;11
+Fastnet Rock;XX.hXXXX/X..XXXXX/.c.XXXXX/.X.hXXXX/..cXh..h/.hXXb..b;13
+Gibraltar Point;h.XXXXXX/X.X.hXXX/X.X.XXXX/X..cXXXX/e..h...X/g..cgX.e;16
+Muskegon;h.XXf.X/X.XXX.X/b.XXX.X/Xd....X/ebhfe.d;12

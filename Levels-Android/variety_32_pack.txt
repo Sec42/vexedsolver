@@ -1,0 +1,60 @@
+Strata;XXd.XXXX/XXXc.XXX/XXXX.XXX/XXXX.XXe/XXX.f.gc/e..fd.Xg;18
+Exiled Kings;XXXa.XXX/XXXX.XXX/b.XX.XXX/c.XX.XXX/X.....dg/dacg..Xb;22
+Vineyard;dXXX.bXX/a.Xa.XXX/X..b.XdX/X..f..cf/X.cX..XX;17
+Last Chance;.eXXXXXX/.XXXXXXX/.XX.fXXX/...db..X/fX.XXXb./d.dXXXed;17
+Miss Milligan;hXXX.hXX/gXXX.XXX/a.X...dh/X..g..XX/d.aX..hX;19
+Repair;XXXXg.X/XXXXX.X/d.XXg.X/c.XXX.c/X...h.b/h..XXbd;17
+Cruel;g.XXXXX/X.XX.bX/X.XX.f./b.XX.X./g..e..c/ec.X.fX;14
+Heads And Tails;XXXg.XXX/XX.e.XXX/XX.X..XX/XX..e.XX/fc..h..c/Xh..X.gf;18
+Bastille Day;XXXXaXXX/a.XXb.XX/X.XXX.XX/X.XXX.XX/X.b..e.X/b.eX.hbh;14
+Russian Cell;X.hXXXXX/X.XXXXXX/h.Xb.XXX/X..X.XXX/ed.....a/dXa..ebX;19
+Three's Company;X.cXXXXX/X.XXXXXX/c.XXXXXX/h.XXXXXX/X.g..f.h/X.f..hgX;14
+Aces And Kings;XXe.f.X/XXX.XfX/XXX..cX/XX...XX/d.ad.XX/c.eX..a;15
+Fourteens;XXXb.XX/XXXX.XX/.fXX.cX/.XXX.XX/a...c.h/f.XhbaX;16
+Fascination;X.dXXXXX/X.XXXXXX/e.XXXXXc/X.cXXX.e/X.f..h.h/X.Xd.XfX;23
+Martha;XXXXXX.b/XXa.XX.X/XbX.XX.X/Xc...f.X/XXh..X.X/hafc..XX;18
+Sixes And Sevens;XXXXXa./XXX.aX./d.g.Xg./X.X..h./.ah..Xd;19
+Penelope's Web;XXXX.fX/XXXX.Xa/XXXX..c/c.b.b.X/f.f.X../X.X.c.a;19
+Castle Mount;gXXXXXXX/c.hXXXXX/X.XXXXf./e....XX./h.eX.XXf/X.Xc...g;15
+Parliament;XXXXd/XXX.h/dXX.X/g.X.X/f...a/hXfag;14
+Cromwell;dXXXXXXg/b.XXXX.e/X.XXXX.a/X.XXX.ae/X.X.b.dX/X...X.gX;12
+Alaska;f.XXXXXX/b.XX.gXX/a..X.XXX/X......e/e.b.gXfa;21
+Sir Tommy;.bXXXXX/.XXXXXX/.XXaXXX/.e.d..b/eg.agXd;17
+FreeCell;XXXXf.XX/XXX.a.XX/XXX.X.XX/a...X.Xb/X..b..ed/d..Xe.fX;15
+New York;Xh.XXX/Xb.XXX/XXg.b./f.X.X./XcX.X./.gf.ch;20
+Will O The Wisp;X.ahXX/X.XXb./X.XXX./b.Xae./X..hg./.geXX.;18
+Royal Family;XXXXXXXc/XXX.bX.h/XXX.X..e/a...a..X/b.e.X.hc;15
+Golf;f.XXXXXX/b.XXXa.X/f.Xf.X.X/X..g.XaX/X..X..XX/g..X..bf;16
+King Tut;XXa...g/X.g.XdX/X.c..ea/.deX.cX;22
+Double Rail;XbXXXXX/Xc.XXXX/XX..XXX/XX....X/X.ag.eX/bcgXea.;21
+Castle's End;XXX.eXXX/XXX.XXXX/.hf.XXXX/.fX.XXXX/.ec.X..c/.Xg.h..g;18
+Ali Baba;g.XXXXXg/h.Xc.X.e/X.XX.X.X/X.X..X.X/X.fe...X/hfXc.X.X;15
+Yukon;Xa..XXXX/XXX..XXX/Xd.X..XX/XX..g..X/..cgX.Xb/cXXXa.bd;22
+Four Seasons;XXXX.gX/e.XX.Xd/X.....g/XX..X.X/..f.c.X/fcX.Xed;17
+Triangle;Xb.XXXXe/XXe.XX.h/XcX.XX.X/.dX.XX.X/.h.....X/db..cX.X;16
+Indian;f.XXX.hX/X.XXX.XX/X.XXc.XX/X.X.e..X/X...b.fb/Xh..X.ec;18
+Imperial Guards;Xag.XX.d/XXf.XX.X/XXX.XX.X/XXb..b.X/f.gd.XaX;16
+Congress;XXXX.dXX/XXXX.X.b/XXXX.X.X/XXb..h.X/X.e..c.X/cdh.eX.X;18
+Trusty;X.gXc.XX/X.XXX.XX/a.XXX..h/h.e....c/e.g.X.aX;17
+Redheads;X.eXXXX/e.fa.XX/X.XX.XX/X.XX.h./X.XX.ga/fg...Xh;9
+Applegate;c.XXh.XX/g.XXX.gX/X.XXX.XX/b..XX..X/X......d/dc.bX.hX;16
+Ukrainian;e..XXXa/Xc.XX.g/XX.XX.c/Xeg...X/XaX.c.X;14
+Siberia;XXXX.gXX/XXXX.X.a/XXX....X/XX..XXfX/h.....gX/c..acXfh;23
+Great Triangle;XbXXXXXX/.fXXXXXX/gd...g../cfcdXXXb;15
+Matrimony;XXXXXX.f/XXXXXX.X/d.XXXX.X/Xf...X.X/Xe.eh..g/hg.Xd.XX;26
+Russian Solitaire;XXd.XXh/XXX.X.c/g.X.c.X/X.X.X.X/f.f.g.X/X.hXd.X;13
+Doublets;XXXX.dX/XXd.eXX/XXX.XXX/hX..XXX/g....f./ehf..Xg;15
+Squadron;Xae..dX/XXX..XX/XXX..XX/X....fg/X.X..Xa/efd.gXX;18
+Fourteen Up;f.XX.dg/X.X..XX/X.X..XX/Xdf.cbX/Xbg.XcX;17
+Triple Line;XXXX.e.f/XXXX.X.d/XXXX.X.X/XXe..d.X/X.g..f.X/f.Xf.g.X;14
+Exit;XXXXg.XX/XXXXX..f/c.f.X..X/X.X..d.X/XdX..g.X/Xf.f.X.c;18
+Peek;XXXX.dX/g.XX.XX/X..X.XX/XX.Xd.h/Xd..hde/XX..eXg;17
+Numeration;XXXe.XX/b..f.XX/X..X.XX/X..ch.X/e.hfXbc;19
+Letter H;d.XXX.ga/Xe.XX.XX/XX.XX.XX/XX.X..XX/...a..XX/egXcd.cX;16
+Acme;c.XXXXXX/X.ac.XXX/X.XX.XXX/X.XX.XXX/d...h..c/Xa.cXd.h;15
+Saxony;XX.cXXXX/XX.XXXb./hb.XXXX./Xc..g..d/Xd.hX..g;18
+Snake;d.XXXXXX/c.XXXXXX/X.X.dX.c/X...XX.X/X...h..h/c.cXf..f;23
+Mount Olympus;XXXXXb.X/XXXXXX.X/XXXX.g.X/.h...h.d/bX.egdeX;17
+Agnes Sorel;XXX.bX.g/..f.X..X/.bX.g.dc/fXX.d.cX;21
+Nestor;XXXXXX.h/XXXXXX.X/XXXXXX.X/..dXX..X/hgh...eX/dXeg..hX;12
+Little Napoleon;a.XXXXXX/X.fXXe../X.XXXcb./X..c.bX./X..f.XX./X..XaXXe;16

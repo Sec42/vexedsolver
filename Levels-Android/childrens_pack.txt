@@ -1,0 +1,60 @@
+Coffee Truffle;XXXa.X/XXXX.X/XXfb.X/e.efab;3
+Kahlua;XXXX.d.a/h.X..X.X/X.X.XX.X/h.d.dXaX;4
+Butter Pecan;XXX.h/.c.eX/cedhd;3
+Peppermint Shower;.hXX/.XXX/.XXX/.bXX/.h.f/bdfd;3
+Macadamia Crunch;X.cX.h/c.gh.g;4
+Tin Roof Sundae;XXXXX.gX/d.XXa.Xh/X.XXX..a/X.X.e..h/X.XeX..X/d.XXX.gX;5
+Rum Raisin;XX.cXXXX/XX.XXXXX/XX.XeXXX/XXe.gXf./X.h.dXX./h.c.gdXf;5
+Blackberry;h..fX/X.hXX/XafXX/Xgc.X/XXagc;5
+Cookies & Cream;XXXXX.f/XXXXX.b/XXXXX.X/d.XXX.X/ad.af.b;5
+Mocha Chip;X.cXa.X/X.X.e.X/X.X.X.X/X.X.e.X/X.X.c.X/c.XcX.a;5
+Cherry Almond;.dXXXXXX/.XfXXXXX/.Xc.fXXX/.XX.eXXX/.XX.cXXX/dXX.ea.a;5
+Blueberry;ad..cX/XX..XX/XX..XX/XXd..c/XXa..X/XXX..X;5
+Chocolate Chip;XeXXXX/.c.XXX/.X..gX/.X..XX/.X..ge/cX.gXX;5
+Green Tea;XXXh.XXX/XXXX.XXX/XXXX.XXX/XXXXe.XX/f.XXh..d/XfXXXd.e;5
+Praline Cashew;XXXX.hX/XXXX.XX/XXXX.XX/XXb...b/XXX...X/c.cX.hX;5
+Carrot Cake;Xb.XXXX/XX.X.cX/Xad.eh./adbecXh;5
+Mocha Almond;XXXb.XX/d.XX.XX/X.aX.XX/X.Xc.XX/XadX.bc;5
+Nega Chip;XXXcXX/XX.h.X/XX.X.X/e..h.X/X..g.X/e.gX.c;5
+Aurora Borealis;XXeXX/X.bdX/X.Xg./X.XX./X.bX./deXXg;5
+Cookie Crunch;XXXXXe.X/XXXXXX.X/.cXXg..X/.XXXX..e/.X.hXg.X/cXhXXX.X;5
+Malted Vanilla;XX.ca./.d.XX./.X.XX./..g.X./..X.Xa/.dcgXX;5
+Rum Custard;XXXX.d/XbXXdX/Xa.fgX/af.gbX;5
+Rainbow;XXX..h/XXd.XX/XXX.XX/XhX.XX/XgafXX/gafd.X;5
+Coconut Truffle;X.dXX.d/d.g..dg;5
+Pineapple;XXfXe.Xg/b.bfg..e;5
+Boysenberry;XXgXXa./X.hXXX./X.XXXX./X.X.cX./X.X.Xa./ghcd.d.;5
+Ginger Shower;..aXXX/.XXXXX/.aXXXX/XXXXXX/XXd..X/f.fX.d;5
+Peppermint Stick;X.fX/X.XX/a.Xb/f..a/b..f;6
+Marble Fudge;XXXXXXf./XXXXXXX./XXXdXXc./XXXe.XX./XXXX.XX./h..hedcf;6
+Toasted Almond;XXXXX.f/XXXXX.X/XX.aX.X/XX.XX.X/XXaXX.f/c.cb..b;5
+Brandied Peach;XXXc.XX/XXXX.dX/XXXX.XX/XXXX.XX/c..d.dc;6
+Chocolate Mint;XXc.XXX/XXX.XXX/XXX.Xe./Xd.gXg./XX.a.a./h.hdcXe;6
+Coconut Almond;XXc.XX/XXX.XX/XXX.Xh/XXde.a/..ch.X/dXea.c;6
+Chocolate Peanut;XXXd.XX/XXXX.XX/XXXX.XX/XXXX.aX/b.XX.XX/Xbead.e;6
+Chocolate;.fXXXX/.XXXXX/.hX.bX/.gX.XX/.fX.XX/gb...h;6
+Cherry;X.aXX/.eX.f/.h..X/.X.hX/ea.fX;6
+Cookie Dough;XXXXX.hX/XXXXX.Xf/XXXXX..e/XXXXXe.X/h.hXXf.h;6
+Maui;XXdXXX/XXa.XX/XXc..h/hgd.cX/ghX.ah;6
+Peppermint Oreo;XXXf.X/XXXX.X/XXXb.X/g.gXfX/X.aba.;6
+Candy Cane;XXXX.bX/XXXX.XX/XXXX.XX/XXXXf.X/XX.ge.X/dg.dbfe;6
+Carob;XXXh.XX/XXXX.XX/df.a.XX/ad.f..h;6
+Strawberry;h..bXXXX/X..XXXXX/X..XXXXX/XX.XXXXX/XX.eXg.X/behbXX.g;6
+Banana Nut;.cXXXXXX/.XXXXX.g/.XXXXX.X/.XXXXX.X/.Xe.XX.X/.cg.e..X;6
+Peanut Butter;XXXaXXX/.gXd.XX/.XXX.XX/c.XX.XX/g..cd.a;6
+Butter Almond;XXdXXXXX/XXe.XXXX/.aX.XX.d/.d.d.X.X/aX.e.XdX;6
+Cappuccino Crunch;eXXX/a.XX/b.XX/X.XX/a.Xh/he.b;6
+Coconut Chip;X.eX.d/X.X.ga/g.eadX;6
+Espresso;X.bXXXXX/b.XXXXXX/X.XXXXXX/X.agXXhX/Xage.he.;6
+Banana Walnut;XXb.XX/XXX.XX/XXX.XX/e.Xag./X.XXa./X..ebg;6
+Mango;e.XXXX/X.dXXX/X.fh.X/X.XX.X/X.hX.X/e.f..d;6
+Chocolate;XXXX.f/XXXX.X/XXXX.X/XXXX.X/bfg..X/XbdgdX;6
+Mocha Mint;eXXXXXXX/bf.XXXXX/eX.bXXXX/Xf.c...c;6
+Bubble Gum;XXXXX.g/..fXX.d/.cXXX.X/.XXXX.X/.cXXagd/.fXabdb;6
+Prudhoe;XbXXXXX/.eXXXXX/.XXXX.c/.Xg.X.X/.bX...X/.eXXc.g;6
+Coffee Cinnamon;XXc.XXXX/g.X.XXXX/X.X.XXXX/X.g.XXfX/X.X.XXe./X.h.chfe;6
+Kona Chip;XXX.aXXX/XXX.XXXX/XXX.XXXX/XXX.XXXf/b.XaX..e/XbXc.ecf;6
+Hot Licks Hash;XXXd.X/XXXX.X/ab.X.X/XXbX.X/XXaX.h/XXedhe;7
+Vanilla Bean;XX.cg/XX.fX/XX.XX/Xf.XX/Xd.bX/gbdcX;7
+Alaska Blueberry;XX.gXd.X/XX.XXe.X/XX.XXX.X/XX.XXX.X/....bX.X/gXcbce.d;7
+Malted Grapenut;d..XXXX/Xe.X.gX/XXb..XX/Xedbe.g;7

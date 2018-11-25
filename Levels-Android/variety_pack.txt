@@ -1,0 +1,60 @@
+Soda Cremosa;XXXXXX.g/XXXXXX.X/XXXXhb.X/XXX.dX.X/X...X..X/h.b.agad;12
+Pineapple;XXa..Xb/.bXga.e/.XXeb.X/.X.bX.X/.X.XX.X/......g;12
+Cereza;XXXXXX.b/XXXXXf.X/XXX.bX.X/Xe..X.a./.acfe.c.;24
+Orange;XXXXXX.h/h.XXX..X/Xe.XX.eX/XX..afXX/XX..faXX/XX..hXXX;12
+TABASCO Cinnamon;XXXa..e/XXbX..X/X.gad.X/dgXbX.e;13
+Chicle;XXXb.XX/XXXX.XX/XXXX.XX/dXhX.XX/bhg..XX/XbdX.g.;9
+Tutti Fruitti;XXb.XXXX/b.X.XXXX/d...XXXX/e.g..XXX/XgXX.X.d/.eg..e.X;23
+Peppermint;XXXXXX.e/X.bXXX.X/X.XXXe.X/X.XXXX.X/Xa..cX.X/cb.ha.hX;11
+Chocolate Pudding;hXXXd.X/a.XXXh./X..b.de/b.eaXXX;15
+Manzana Verde;XXXXX.eX/XXXXX.XX/XXXXX.Xf/ca.....e/XXfgc.ag;17
+Tangerine;X.dXXXXX/X.XXXXbg/..XXXXXe/.XXXXX.b/.XXXX..X/.dXXX.eg;8
+Lemon Drop;XbXXXXXX/.cXXXXXX/.a.XXX.h/.b.XXX.X/.X..X.aX/cXg...hg;10
+Blueberry;.cXXXXXX/.XXXXXXX/..eXXXXX/.hb...XX/ecXe.heb;13
+Cantaloupe;XX.fbXX/...dgXX/.X.fh../.X.gXX./.XXbXX./..dXXh.;13
+Buttered Popcorn;XXXf.XXX/XXXX.XXX/.dXX.XXX/aXXX.XXX/b......X/d.c.abfc;16
+Peach;.fXXXX.f/.aXXXX.X/.XXXXX.X/h...XX.h/X.X.X.ec/X...aecX;19
+Passion Fruit;bXXX.fXX/f.X..c.d/h..d.bhc;22
+Canela Picante;XX..dXX/h..XXd./X..XXX./XXa.XX./.fXf.X./chca...;23
+Peanut Butter;.aXXXX/.X.dXe/.X.f.f/.XdX.X/.XXX.X/..e.a.;11
+Lemon;XXXXX.a/h.XXf.X/X..aX.c/X..XX.X/X...h.X/X.c.X.f;13
+Orange Sherbet;XXXXX..e/XX....dX/a..ag.XX/Xa.de.gX;14
+Sandia;XXXXXa./XXXX.h./X.eX.X./X.XXbX./eh..a../bd.dX..;10
+Pina Colada;XXXXhX.g/X.b.eX.X/..X.Xa.X/.XX..baX/.hXgeXXX;11
+Ponche Tropical;XXXXX.gX/.hXXX.XX/.XXXX..g/e.f..d.X/h.d.eX.f;15
+Anis;XXXX.dX/XXXX.XX/X.gX.XX/c.d.a../dag.dXc;15
+Platano;XXXh...g/XXXX..XX/XXX...XX/XXX.X.XX/.edhX.XX/.dbebgXX;16
+Pink Grapefruit;XXh.XXXX/XXX.XXXX/XXX.X.bX/X.d...eX/d.f...XX/feX...hb;18
+Caramel Apple;c.XXXXX/X.XXXXX/c.XXXXX/Xh..XXX/Xfe...c/XXhf..e;16
+Spearmint;g.XXXXXX/X.XXXXXf/X.XXXXXd/X..gXX.b/Xc.c...X/XX.dbX.f;11
+Watermelon;..aXXX/.XXcXX/..Xb.c/h..h.d/a.dX.b;12
+Cinnamon;XXa.bXXX/XXX.XXf./XXX.XXX./d...X..h/bX.ah.df;13
+Cafe Latte;f.X.aX/X.X.Xe/X.X..h/h.a.bX/X.X.f./XXX.eb;13
+Top Banana;XXXXXgXX/XXXX.dXX/XXXX.XXX/XXXX...X/X...d.eb/eb.XXaga;16
+Hawaiian Punch;f...XXXX/XXe..XXX/Xac...fg/.ca.gXXe;18
+A&W Root Beer;XXXXXX.g/a.XXX..X/X.e.X.XX/X.c.d.aX/X.X.X.eX/X.X..dgc;17
+Mandarina;X.gXb..c/X.XXX..X/X.XXX..h/b......f/cXgh.f.X;19
+Espresso;b..gXXXX/X..XXXXX/X.f.XXXX/X.b.hXXX/X.XhXXXX/XX.g.f.h;12
+Red Apple;.fXXXX/.XXX.a/.XXX.b/.g.g.f/.X.b.X/.X.a.b;13
+Juicy Pear;e.XXXXXf/X.XXXX.d/X.XXX..X/X.XXc..X/X.X.afeX/X..aXdcX;12
+Margarita;XXXd.XXX/XXXX.X.h/XXb..X.c/XXX....X/.eX...dX/ec..hXbX;15
+Green Apple;hc.XXXX/XX.XXXX/XX.XXXX/XX...cb/X....bf/af.a.Xh;19
+Raspberry;XXXXXXa/XXXXX.b/bf....f/XX..adX/d..XXfb;26
+Island Punch;XXXXX.g/X.dXX.X/g.XX.hX/d.XX.XX/X..b.eX/XeXh.bX;13
+Pera Jugosa;Xca.XXX/XXg.XXc/XXX.X.d/XXX.X.X/XXX.gh./d...Xah;15
+Cappuccino;X.eXXXX/X.c.XXX/X.X.XXd/d.e..ef/f.X..ce;17
+Champagne Punch;XeXXXXX/Xc.XXXX/XX.XXXb/..c...f/fXba.ae;19
+Dr Pepper;XXXXX.fX/XXXXX.XX/XXXXX.XX/c.XXX.XX/b......d/dhfb.hXc;22
+A&W Cream Soda;XXXXXX.d/XcXXXX.X/XdXXXX.X/Xa...X.X/XX.b.c.X/b..adX.X;17
+Coctel Honolulu;XXXc.XXX/Xb.X.XXX/XX.X.XXX/fX.c.X.f/e..b.X.X/h.hXe..X;16
+French Vanilla;XXXXXX.h/XXXXXX.f/XXXXXX.a/XXXXX..b/XX.e..aX/bheX..fX;19
+Grape Jelly;c.XXXXXX/X.XXXXXX/X.XXXX.c/X.Xg.h.X/a..a.g.b/b.hX.X.X;23
+Cotton Candy;X.gXXXXX/c.XXXh.e/g....f.c/e....Xhf;26
+Bubble Gum;Xe.XXXX/XX.e.aX/XXXX.hX/.....XX/.Xc..b./.aX.chb;15
+Caramel Corn;XXcXXXXX/X.gX.fXX/X.XX.XXX/X.XX.XXX/X..b..cX/..bXfhgh;18
+Sours;X.bXXXXX/X.XXXX.h/X.XX...c/X.XX.X.X/e.f.f..X/c.b.X.eh;23
+Sizzling Cinnamon;XXX.aXXX/X.gcXXXX/X.XXXXXX/...b.XXX/...X..bd/cd..g.Xa;23
+Frambuesa;XXXXXX.h/XXXXXX.f/X.dXXX.X/X.XX..fX/X.b..chX/b.Xc.dXX;20
+Jalapeno;XXXX.aX/XXe..XX/.dXg.XX/.XdX.XX/.gh...a/heX...X;30
+Licorice;cXgXXXXX/g.b.XXXX/X.X.XXXX/d.X...aX/a...dXbc;22
+Menta;c.g..XXX/X.XX.f.X/Xd..fa../Xa.dXc.g;25

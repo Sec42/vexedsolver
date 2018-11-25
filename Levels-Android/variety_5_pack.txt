@@ -1,0 +1,60 @@
+Ghana;gaXXXXaX/Xh.XX.eX/XX.XX.XX/Xa..X.XX/.g..X.XX/hX.e...e;14
+Ukraine;Xc.XaXX/XX..d.X/XX..X.X/XX..X../b..a.h./X.hb.cd;11
+Uzbekistan;XXXXXX.c/XXXd.X.X/X.eX.X.X/e.XX...X/c..X...d/dc..e..e;26
+Colombia;XXXcd../XXXXX../XXX..b./XX..ha./b..XXX./dXXha.c;19
+Zimbabwe;XXXXb.g/ag..f.a/fh.hXbX;16
+United States;XXX.c.db/XXb.agXX/XXX.XXXX/XXX.XXXX/X....a.c/dgX..X.X;22
+France;XXXXbXXX/XXX.g..d/XXX.d..X/d.X.b..X/X...c..X/.c.gXX.X;13
+Japan;XXX.bXXX/XXXfXXXX/XX.b.XXX/XX.XhXXX/XX.Xe..X/hfa.aX.e;9
+Netherlands;c.e.XX/X.bdXX/X.fbXX/X.Xe.X/.dfX.c;9
+Syria;XXc.XXXX/g.X.XXXX/d.X.X.dX/X.h.X.XX/X.d.X.gX/d.X...hc;17
+Mexico;Xc.X.hX/Xa.e.XX/XX.X.XX/h..X.XX/b.....b/Xae..Xc;16
+Tanzania;XXXX.e/XXh..a/..d.ef/daXfhX;10
+Vietnam;de.XX..e/XX..h.XX/f...X.XX/X.Xf..XX/X..e..XX/X..X.dhd;18
+China;XXbX.g/XXg..X/XXX..f/Xb..aX/fab.gX;10
+Argentina;XaXXXXX/.c.XXXX/.Xd.XXX/..X.df./dcdfXXa;13
+Guatemala;XXbXXXXX/XXdXXXXX/..bXXXXX/..XX.h.h/...X.X.X/b.edeh.X;13
+Ethiopia;XXXXXXg/XX.ah.e/X..Xd.X/..XXX.X/.eXX..X/.adhg.X;14
+Peru;XXXXXf./XXXXfX./Xe.da../Xf.XX../XXeXX../d.a...X;12
+Malaysia;gabe.XXX/XXXX.XXX/XXXc.XXX/XXXX.XXX/XXX...../Xab.gcXe;17
+Iraq;XXXaXXX/bhcb.XX/Xcda.dh;10
+Poland;Xh.fXXXX/Xc.XXXXX/XX.XXX.g/Xd..XX.X/XX...d../gc.f.XXh;17
+Germany;Xc.XcX/XX..dX/XX..XX/XX.bdf/a.aXfb;8
+South Korea;XXXXa..X/.hXXXg.X/.XXXXX.X/.XXXXX.X/ce.XXX.X/hXe.gc.a;14
+Philippines;d.XXXX.d/X.e....X/X.fhf..X/X.Xbhb.e;20
+Saudi Arabia;XXXXXcXX/XXXX.gXX/XXX..dXX/h..bXXXX/dX.g.chb;20
+Pakistan;e..XXXdX/da..XXf./Xfh..eah;23
+Romania;g.XXXXX/X.XgbXX/X..fXXX/..dh.d./bhXX.Xf;18
+Russia;XXeXX/X.d.e/X.X.h/h.X.X/c.b.X/dbXcX;11
+Sri Lanka;cXXXX/e.aXX/b.c.a/Xbe.X/Xec.X;8
+Burkina Faso;XXXXXg./XXX.cX./X.c.XX./g.XXXX./h..e.../bebhXX.;16
+Spain;XXXhXXXX/XXXf.XeX/XXXX..fX/XX.f..Xb/e..X..bh;15
+Nigeria;XXX.h.fX/XXX.a.XX/XX..X.XX/....X.fX/.X...adc/hXd..cXX;18
+Burma;bXXaXXXX/dh.d.XXX/XX.X.XXX/XX.X.XXX/Xb....fa/Xf....Xh;19
+Iran;XXXXX..f/XXXXX.XX/g.XXX.XX/h.XXX.aX/X.....da/fhd.X.gX;20
+South Africa;XXXXXX.g/XXXXX..X/XXXhX.XX/Xh.c..XX/.f.X...X/gXac..af;26
+Egypt;XXhXXX/XXfa../XXXd../XXXXX./Xb.X.f/ad..hb;21
+Australia;XXa.XXXX/XXX.XXXX/XXX.XX.c/XX..XX.X/dcf....X/XhadhXfX;16
+Morocco;XXd.XXXX/X.g.XXXX/..X.XXeX/ha..XXha/gX....de;15
+Turkey;XXXXXf./dXXXXX./a.X.bX./X.X.X../X...f.d/be..aeX;16
+Indonesia;XX.abXXX/XX.XaXXX/XXb.hX.e/XXa.XX.X/XXX....h/e.a..X.X;16
+Mozambique;.g.fXeXX/.X.X.c.X/.X.X.Xf./.X.X..g./.X....X./.g..Xecg;10
+Brazil;e.XXXXX/Xh.XXg./Xa.XXX./XX.XXXg/XX..aXX/XXf.hef;12
+Taiwan;XaX.fXX/.d..X.d/.X.XX.X/.a..f.X/fXh.hXX;14
+Ecuador;XXXX.fe/XXXX.dX/XXXX.XX/XXX...h/d.he.Xf;13
+Sudan;d.XXXXXX/X.XXXXXh/g.Xe.X.c/X.XX...X/Xh....e./Xd.X..gc;16
+Algeria;b.XXXXXX/X.XXXXXX/X.XXXgXX/b..g.d../X..X.Xb./Xf...fd.;16
+Kenya;XX.gXXXX/XX.XXXXX/XX.h.X.c/XX.X.a.X/.f...h.X/cX.fag.X;17
+India;XXXe.X.e/XXXX.c.X/XXXX.Xg./XXXX..f./gX..c.X./cf..XXc.;17
+North Korea;XXXdXXX/XX.eXXX/f..XXXX/c..XX.d/e.....c/b.b..Xf;19
+Canada;bXXXXXX/fXXXXXX/c.XXXXX/X..c..X/X..Xh.f/Xh..dbd;15
+United Kingdom;Xh.XXX.h/Xc.XXX.X/bX.XXX.X/h..c...g/c..g.XXb;25
+Cambodia;eXXXXXX/fhe...g/hcfcg.X;13
+Yemen;XXh.XXXX/XXf.XXh./XXX.X.fc/XXX...ga/X...c.XX/gaX.X.XX;21
+Madagascar;c.XXX.dX/f.XXX.cX/Xc...fXX/XX...XXX/X.b.db.f;20
+Kazakhstan;e.XXXXX/a.XXXhX/X..X.g./.h.X.X./.X.e.a./hX.XgXh;10
+Chile;b.XX.bX/X.XX.XX/X.XX.XX/X.h..XX/XXX.fhc/Xhf.cXh;18
+Nepal;XXXh.XXX/XXXX.XXX/XXXX..ea/XXXX..Xc/XXXX.bhe/b....cXa;10
+Uganda;XXXX.aXX/XX.e.XXX/XXdX.XXX/X.eX.XXX/a.d..XXX/e.Xb..be;12
+Bangladesh;XXXX.eg/XXXX.dX/XXXX.hX/XXXXeXX/d.h.cgX/c.X.XXX;13
+Thailand;XXb.XXXX/XXX.XXXX/XXX.XXXX/XXX.XXXX/Xh.c...b/ac.adhdX;22

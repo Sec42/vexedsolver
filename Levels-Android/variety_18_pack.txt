@@ -1,0 +1,60 @@
+Shuvee;XXXXX.aX/XXe.X.dX/XXX.X.hX/XX....bX/X..X..he/d.X...ba;20
+Miesque;XXXXe.XX/Xf.XX.XX/XX.XX.XX/XX.XX.XX/dg..gb../XXd.eXfb;14
+Lexington;XXXXX.cX/XXXX..XX/b.XX.XXX/Xg....bX/Xe.h..g./XXce..Xh;18
+Cicada;h.XXXXX/g.XXXXX/b..XXXX/X...ac./c.bXgah;21
+Fashion;e.XXXXf./X.XXXXX./X.XXXX../.aXXeX.X/.f..ha.X/.h.XXf.f;19
+Bald Eagle;XXd.XXXX/X.b.X.cX/X.X.X.XX/X.X.X..b/.g.c...e/eX.g.d.X;19
+Hastings;XXXXXh./XXX.fX./gXX.XX./d.X.XX./b...f../g.XXbhd;17
+Colin;Xh.XXXX/XX.XXXX/Xh.XXXX/.f.XXXX/eg.d..X/fX.Xdeg;13
+Bed O' Roses;ef...b.X/gb.hehgf;20
+Charismatic;XXXXXX.e/XXXX.a.X/Xf.X.g.X/XX.X.X.X/X..c...g/eaXXXf.c;19
+Hill Prince;XXc.XXXX/XXXdXXXX/Xh.e.XXX/XX.X.XXX/.e.g...X/cX.dXh.g;16
+Cafe Prince;XXf.XXXX/XXg..XXX/XXX...h./a.ah.fXg;11
+Challedon;Xf..fXX/XXX.XXX/XhX.XXe/.c..c.a/aX..ehX;16
+Round Table;XXX.bX/.dXfXX/.X.d.X/.X.X.X/...X../X.febe;8
+Dark Mirage;a.XXX/h.XXX/X.XXX/X.bXX/dbg.d/XhXga;8
+Go For Wand;XXf.XXXX/XXX.eXXX/XXX.c.cf/XXX.X.Xe/XXX....d/gd...gXX;17
+American Eclipse;XX.dXXX/XX.XXXX/h..fXXX/X.fb.XX/..gX.XX/.gXh.bd;13
+Ben Brush;XXXX..c/XXXX.be/XXa..XX/XXX..XX/e..g.XX/bgcX.aX;18
+Sysonby;a.XXXX.h/X.f.XX.X/a.X.XX.X/hg....bX/Xfb.XXgX;18
+Sir Archy;XXXd.XXX/XXXX.Xb./XXXX..f./XXXX..X./Xg....../da.faXgb;17
+Busher;XXXd...f/XXXX..XX/XXXX..XX/XXXX.X.a/..b....X/aXfXdb.X;19
+Princess Doreen;h.XXX.f/X.XXX.X/f..d..X/gb.XX.X/XX....b/XXg.Xhd;18
+Gun Bow;Xg.XgXX/XX.Xd.X/XXdXX.X/X.gXX.X/..h...X/hdX.b.b;16
+Pensive;XXXXf.hX/XXXXX.c./XXXXXXa./XXXXXXX./XXXh.a../d..d.Xfc;12
+Ruffian;XXXX.h/XXXX.X/XaXX.X/hf.b.X/ad.f.X/XXbXdX;10
+Cavalcade;eXXXXXX/d..XXXX/eX.XXXX/g..XXXX/X.dah../h.gXXXa;14
+Carry Back;XXXXX.bX/Xf.c..XX/XX.X..XX/h...c.XX/XXd.X..d/X.b.h.Xf;18
+Salvator;XX.aXXf/XX.XX.a/XX..X.X/h.e...X/Xfa.X.X/XeX..h.;18
+Citation;XXX.gXXX/d...XXXX/XX.hXXXX/Xf.d.X.h/XX.g...f/Xe.eX..X;13
+Pan Zareta;XXc.X.cg/XXg.X.XX/XXX...XX/XXXX..XX/.e....fX/fXd..deX;20
+Conquistador;XXc.XXc/XXXb..h/b.dchdX;13
+La Prevoyante;XXXXabXX/XXXXXg.X/X.cXXX.X/X.XXXX.X/c.X..ge./X.b.XXae;10
+Artful;bhXXXXX/Xd.XXXX/XX.XXXX/XX....b/XX.ga.h/XXaXg.d;19
+Top Flight;XXX.b/XXX.X/XX.e./XX.X./..dhb/ahade;11
+Bon Nouvel;XXXXXgXX/g.XX.hXX/X...bXXX/X..Xc.bX/d..dX.hc;12
+Silver Charm;fe.XXXX/cX.XXXX/ha.XXXX/XX..fXX/XX.ceah;16
+Elkridge;Xd..eXXX/egc.XXf./XXX.XXX./X.f..XX./c.X.dg..;16
+Peter Pan;c.XXXXaX/X.cXX.h./X.XXX.X./Xg.d.gX./.adX.Xh.;16
+Whirlaway;g.XXXXX/Xeh.XXX/XXe..XX/XXX..XX/XXX.hXX/XX.gaea;13
+Luke Blackburn;XXd.XXX/XXXh.XX/be.d..g/XXegbXh;11
+Aristides;X.fXXXX/a.XXXXX/c.XXX.d/X..aX.X/X..cd.X/.f.fcXX;12
+Spectacular Bid;XXXX.cX/XXXX.XX/d.c.agX/gXf.fda;20
+Jolly Roger;XXXeXXXX/XX.dXXXX/XX.b.XXX/c..X.XXX/db....cf/efX...XX;19
+Flatterer;.aXXXX/.X.aXX/.X.XXX/.X..fX/..gceX/.Xfegc;12
+Zaccio;X.eXXXXX/X.XXXc.a/g.XXXX.c/X.XXXX.f/X......e/ag.X.X.f;18
+Roseben;XXX.f.fX/XXX.X.XX/XXX.g..h/XXX.X..X/X.h.g..b/b.X.Xa.a;16
+Black Gold;XXXXXbXX/XXb..c.X/XXXd.X.c/XXXX.X.X/XdXX..a./.a.d..Xd;16
+Good And Plenty;c.XgfX/X.XXgX/X.X.a./X...X./a....f/ca..gX;11
+Miss Woodford;XeXXXX.h/XdXXXX.X/.h...b.X/eb.cdcXX;12
+Forego;XXXXX.cX/XXXa..XX/XXXX..Xe/e.XX...h/c......f/hX...faX;22
+Sir Barton;XXXX.h.c/XXXX.X.X/XXXX.X.X/.e...X.X/aga.g..X/hXXce.XX;19
+Northern Dancer;h.XXXXXX/X.XXXX.a/X.XXXX.h/X.XXX..X/X...ghf./g..aXfh.;13
+Princequillo;g.XXXX/X.XXXX/X.XXfX/XhXXhX/Xf..f./XX.gh.;8
+Tim Tam;XXXXXf.e/XXXXXX.g/XXXXXX.a/c......X/gac.Xf.e;16
+Hanover;ab.fXXXX/XX.XXXXX/XX.XXXbX/XX.h..e./XX.X.XX./X.faeXXh;17
+Friar Rock;c.XXXXXX/X.XXXX.d/X.XXXX.X/X..aX..X/X.gb...X/XbadcXgX;19
+Blue Larkspur;..gXbXXX/bdc.e.../XXgXXdec;21
+Myrtlewood;Xe..cX/Xd..Xh/XXX..f/XX...X/..cXeX/fXhdXX;16
+Marriage;XXXXXXcX/XXXXXXf./XXXXX.h./XXXXX.X./.h.gc.X./gX.Xd.df;12
+Discovery;d.XfdX/X..aXh/h..f.a/Xd.X.X;12

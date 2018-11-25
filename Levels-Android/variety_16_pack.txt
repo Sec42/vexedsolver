@@ -1,0 +1,60 @@
+Gallant Fox;XXXXX..b/XXXX..XX/h.XchXc./X..bf.X./e..eX.f.;14
+Man O' War;b..fb/X.XXX/Xd.XX/Xf.XX/.d.XX/.cbcX;10
+Jay Trump;XXXX.h.c/XXXX.X.X/XXXX...X/a..f..XX/X..b..Xh/f.bXc..a;31
+Black Helen;XXX.bXXX/XXXch.XX/XXXbX.XX/g..X..XX/Xh.gac.a;11
+Davona Dale;bXXXXXXX/c.XXXXXX/X.XXXX.g/X.XXX..X/X.....a./bag..hch;20
+Gallant Bloom;XXXXX.hX/aXX...XX/g.c..XXX/cha..dgd;19
+Gen. Duke;hXXhXXXX/c.Xe.XXX/X.XX.XXX/X.XX..XX/X..X...d/.h.cd.Xe;17
+Eight Thirty;XXf..XXX/gda.d..c/XaXXcf.g;23
+Devil Diver;a.XXXXcX/X.XXXah./X.XXXXX./X.XXXXX./.b..h.f./fX..c.b.;26
+Parole;dXfXXXXX/b.b.XXXX/X.X..XXX/b.XX..XX/Xd.df..b;20
+Searching;Xb..cX/Xa..XX/XX.XXX/Xd.de./XX.cX./b..Xae;11
+Alsab;XXdXXX/X.g..a/e.X..X/b....X/e.aX.X/g.X.db;15
+Silver Spoon;f.fXXXXX/g.gXXXXX/h.XXXXXX/X.XXX.gX/X..XX.Xd/Xd....hg;15
+Tempted;XXXXX.g/XXXXX.X/XXXXX.d/XXXX.dX/ed...gX/XXf..ef;14
+Stymie;XXXg./eXXX./g.X../X.X.c/X.e.X/..gec;9
+Battleship;XXXXd.X/XX.dX.X/Xg.XX.X/.f..h.X/hX.agaf;19
+Easy Goer;h.XXX/c.XXX/g.XcX/d..d./Xe.X./eh.Xg;12
+Affectionately;a.XXX.a/X.XXX.X/X.XX..X/X.X..bX/....dhX/dXh.XbX;12
+Exceller;XXXXa..X/XXXbXX.X/Xh.aXX.X/XX.XXb.X/XX.X.h.X/a...ga.g;15
+Neji;XXXXe.XX/XXXXh.a./bXXXX.X./fb....X./XaXf.eXh;22
+Genuine Risk;XXXX.cX/XXXX.Xg/Xb.X..e/eX..b.X/acgaX.X;19
+War Admiral;a.f.XX.g/X.he.X.h/Xegfa..X;15
+John Henry;XXXXX.f/X.hXX.X/f.XX..g/e.XX.XX/c..c.XX/Xh.Xg.e;15
+Fitz Herbert;XXXX.e/Xh.h.a/XXbd.X/baeX.d;16
+Riva Ridge;eXXXX.cX/a...X.XX/hgh...XX/XXXc.age;20
+Oedipus;XX.fX.eX/c..XX.XX/X..XX..c/X......X/X...X..g/f.c.g.ef;17
+Armed;XXXX.b/.fXX.X/.eXX.X/.XX..X/bdbd../XXeXfb;18
+Arts And Letters;Xe.XXXXb/XX.XXX.g/cX.g...c/fe.bf..X;18
+Fort Marcy;XXXd.XXX/XXXX.eXX/XXXX.XXX/bXXX.XXX/h...dhXX/Xe..cb.c;16
+Assault;cXXXXXXX/g.XXXXXX/X.X.bXXX/X.X.d.gX/X...X.ad/X.bac.XX;16
+Kelso;XXXXX.aX/XXXXe.XX/XXXXX.XX/XXXXX.XX/XXXX.gd./cd..aecg;15
+Ack Ack;.eXXd.X/.XXXXh./.XXXXX./.XXX.de/.eX..XX/.Xh..de;18
+Cigar;g.XXXXXX/c..XXXXX/X..XXXXX/XX...XXX/.g...abg/aX.cgXXb;24
+Noor;XXXXd.g/XXXXX.a/XeXXX.X/Xd.X..X/.g....X/aXec.cX;17
+Bayakoa;XXh..cXX/XXXX.XXX/XXXX.XXX/XX.....a/XX.eXb.X/bc.ahe..;20
+Princess Rooney;XhfXXXX/XXe.XXX/XXf.aXh/XXa.X.d/XXX...X/ed...XX;12
+Buckpasser;XXXbXXc./XXXg.XX./XXXX.XX./XXXX.fX./XX...g../hfc.hb.X;16
+Market Wise;Xf.cXX/XX.d.X/Xg.X.a/.f...X/.X...g/aX.cXd;14
+Majestic Prince;XX.dXXXX/Xc.a.XXX/XX.g.aXX/XX.X.XXX/XX.g...X/fd.f.X.c;11
+Billy Kelly;faXXXXXX/cd.XXXXX/XX.XXXXX/XX.XXXXX/X....XXX/dg.ca.fg;17
+Kentucky;.cXXXXX/.XXXXXX/.a.XXXX/.X.XXXX/.heXXXX/dac.edh;18
+Tiznow;XX.hXXXX/fX.XXX.e/e..XXX.f/X....c.c/h...Xf.f;16
+Two Lea;.gdXXXX/.Xb.XXX/..X.XXX/f.X.XXX/X..fg../Xd.gXbg;12
+Henry Of Navarre;XXXXe.X/XXXXX.b/XXXX.ec/XX..chX/ah.aXbX;9
+Dark Secret;Xd.XXXXX/Xa.XXXXX/XX.XXXXX/XX.h.XXX/XX.ea..c/..cXhd.e;22
+Ten Broeck;Xe...c.f/XX..XX.X/XX.dXX.X/XX.XfX.X/X..da..X/c.XaX.eX;16
+Twilight Tear;Xc.XXXXX/Xg.XXX.e/XX.XXX.X/...a.aed/dX.g.XXc;19
+Ruthless;XXh.bXXX/XXX.aXXX/XXX.XX.h/XX..XX.X/XX.d.h.X/d.ba.X.X;11
+Beldame;XXXXeXXX/e...gfXX/Xcgfcg.g;10
+Native Diver;e.XXXXX/X.XXXXX/g.XXXa./X.XX.bh/e.XX.Xa/g.X.hbX;7
+Risen Star;.he.XX/.Xfe.X/.XXX.h/.f...X/.b..bX/hX..f.;13
+Mocassin;XXd.XXX/.eX.XXX/.Xg.Xd./.XX..X./...ge.a/X.XadXd;11
+Skip Away;XXXXX.a/XXXXX.X/f.XXX.X/a..fX.X/X..ed.X/b.ebX.d;13
+Fairmount;XXcXXXX/Xfd.XXX/.hX.XXX/.XX.XXX/......g/fXgXchd;18
+Hamburg;e.XXXX/fd.XXX/Xe.db./XX.hX./XXhXX./XXfXXb;7
+Flawlessly;XXXXXX.b/XXXXXX.X/c.XXf..c/X.XXXf.X/Xe..hb.X/XXe.Xh..;13
+Grey Lag;Xa.XXXgd/XX.dX.bX/XX.XX.XX/XX.XX.XX/XX...c.b/g....Xca;20
+Slew O' Gold;XXXXf.ef/XXXXX.gX/XXXX.eXX/XXXX.aXX/aXX..XXX/c.g.cXXX;13
+Commando;XXXXXb./XXX.bX./XXX.XX./XXf..X./XXXXe../gedfd.g;21
+Equipose;XXXXd.X/XXbXX.X/XXdXX.X/..c...X/cXX.X.e/XXe.b.b;11

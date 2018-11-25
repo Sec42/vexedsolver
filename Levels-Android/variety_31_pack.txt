@@ -1,0 +1,60 @@
+All In A Row;Xd.X.gX/XX.X.bX/XX.X.Xf/.f..c.d/cX.gXbX;16
+Auld Lang Syne;X.aXXXXX/X.XXXXXX/X.dXXXXX/X.X.hXXX/X.b.b..c/a.X.cd.h;13
+Strategy Plus;ac.XXX/de.XXX/XX...a/X....X/..a..X/XecXdX;11
+Order Time;XXXh.X.c/XXXX.X.X/XXXX...X/f.e.fh.a/XaX.ce.X;17
+Lafayette;XXe.X/XXX../a.XX./Xg.X./fe.g./eXeaf;14
+King's Way;XhXXXXXX/Xa.XXhXX/XX.XXcXX/X.c..h../a.X..XX./d.dX..c.;13
+Three Cells;XXXXXXa./Xb.h.XX./XX.g.XXa/XX.X...g/XX..b..X/b...Xha.;13
+Trillium;XXXXXXh/h.XXX.g/X.XXX.X/X....dX/XX..Xa./XX.dgha;10
+Waxing Moon;XXXg.X/XXaX.d/XXg..X/X.c..h/hcXa.d;10
+Acquaintance;XcXXXXXX/Xf..XXXX/XXe.XXXX/XXX...dX/X.....b./cfXbd.Xe;19
+Sixteen Puzzle;XXXXea.X/XXXXaX.X/XXX.b..X/XXX.X..X/XX.b...f/df.dX..e;13
+Salic Law;XXX.cdXX/XXX.dh../X.b.XXX./X.X.XXX./g....h../Xb.X.g.c;16
+Eagle Wing;XXXXXX.b/g.dXe..X/f.XXX.eX/X.XX..XX/b....XXX/dfXXgXXX;13
+Reserves;XXaXXXX/XXcXXXX/X.aXXXX/X.XXX.d/..XXX.h/h.cad.X;13
+Springfield;XXXXa.XX/XXcXX.XX/..a...eh/aeX.h.ac;17
+Diplomat;XXX.fX/bXX.bX/e.c.XX/X.X..g/c....X/Xfge.X;11
+Thieves Of Egypt;XXXb..fg/XXXX..XX/XXXX...d/XXXX.c.X/g....X.X/cXb..Xfd;17
+Pigtail;XXXXX.a/.fXXX.X/.XXXX.X/h.XXX.X/fb...../cahc.Xb;16
+Solid;XfXXXXXX/.g.XXX.g/.X.XXX.X/b......X/gXXgb.gf;16
+Kings And Queens;Xb.XXXX/Xe.XXXX/XX.XXXX/X..c..c/g..d..d/Xb.X.eg;17
+Steve;cXXXXX/g..c.X/Xd.X.a/XXg..d/XXX..a/d.g..X;13
+Push-Pin;XXXXXX.c/XXXXXX.b/b.XXX..a/X.XX...X/.d...g.X/aXdXgc.X;19
+Napoleon's Square;.cXXXXX/.XXX.gX/.XXX.XX/.aXX..d/.d....c/.X.hgha;18
+Caprisieuse;XXXXXX.b/XXXXXX.X/...cfg.X/f.gdbcdX;15
+Great Wheel;XXXX..aX/XfXX.XXX/.d...XXX/.b....c./dc.a.fXb;17
+Triple FreeCell;XXXXX.fX/Xa.XX.XX/XX.XX..c/c..XX..d/Xb.d...X/Xa.Xb..f;17
+Sultan Of Turkey;XXh..X/.hXd.X/.XXX.X/.X.heX/...Xa./e.dahX;12
+American Toad;Xd.Xd..f/XX.XX.eX/XXfXX.XX/XXdXX.XX/X.f...XX/e.X..d.X;19
+Maze;Xb.XXXX/bX.XXXX/a..XcXX/X...aXX/h...c.X/X.a.X.h;14
+Fort;g..hXXX/X..XXXX/X..XXXX/X..XXXX/ada..d./bhb..Xg;15
+Grandfather;g.XXXXXX/Xe.XX.cX/XX.XX.XX/Xg..X.aX/XXe...XX/Xag.Xc.g;13
+Wave Motion;XXXXXXf./c.b.XXX./X.g.XXX./X.X.XX.c/X.a....f/X.X..gab;18
+Simple Pairs;XXXb.gXX/XXXX.Xd./XXXX.eX./XXX..XX./g.Xd..../egbg..X.;16
+Intelligence;XXeb.X.a/XXXX.X.X/a.XX.X.X/X...e..X/XX..Xc../gbg.XXc.;19
+Circle Nine;Xg.XXXXX/XX.XXa.X/.h..aX.c/.X..XX.X/f......./hX.f.Xgc;16
+Cleopatra;XXXXX.d/XXXXXca/XXXX.hX/XXd..XX/h.h..XX/c.Xa.XX;15
+Spaces And Aces;XXXXX.dh/XXd.X.XX/XXX.X.XX/XXX...XX/hgf...XX/gXX.d..f;20
+Double Dot;XXXX.bX/XXXX.aX/c.X..XX/g.X.XXX/X...fca/XbX.Xgf;25
+Antares;f.XXXX/c.XXXX/X.XXXX/X..X.b/b.e.fX/XcbecX;11
+TetSol;Xh..dXXX/XX.XXXXX/e..XXXXX/X...X..d/X...ceXX/Xd.hXcdX;16
+Deuces;XXXXXXc/XX.bX.h/XX.XX.X/Xf.XX.X/.ch.a.X/aXb.f.X;18
+Thumb And Pouch;cXXXXXXX/h.XXXXXX/X.XX.aXX/X.ga.XXX/c.XX.XXX/X.gXf.fh;14
+Buffalo Bill;Xf.XXXXX/be.XXXXX/XX.XXXXX/Xa.XXXXX/eX....c./cfb...Xa;20
+Travellers Clock;XXX.fX/X.e.XX/h.XXXX/X..gXX/fcXXXX/egh..c;18
+Emperor;XXXXX.eX/XXXXX.XX/XXXXX.XX/.d.cf.XX/.eXbX.XX/cXdf...b;19
+Canfield;XXc.XXg./XXX.XXX./XXX.Xe.e/XXX.Xb.X/X.c..c.X/b.XXgX.c;12
+The Wish;gXXXXXX/h.Xf.XX/X.XX.XX/X..X.h./b.h..X./Xgb..Xf;14
+Busy Aces;c.d.b.c/X.X.h.X/X.X.ba./X.X.Xd./Xa..XXh;13
+Empress Of Italy;XXXX.f/b.XX.X/X.b..X/.ha.eX/afeXh.;18
+Alternation;XXXX.dX/h..X.XX/bX.d.XX/a..X.Xf/f.b...a/X.X.hXX;17
+Tarantula;XXX.aX/Xd..Xf/XX.f.a/c..X.X/X..d.X/a..XcX;14
+Tower Of Hanoi;a.XXXXXX/f..XXc.X/X...XX.X/e......e/cfa..e.X;27
+Compass;XXXeXXX/Xd.d..X/XX.X.b./XX..cf./fcbXXe.;22
+Giant;d.XXX.c/X.X.b.X/X.X.Xe./X.X..X./c...g../gX.eb.d;19
+Steps;Xcb..XX/XXXa..X/XXXX.../XXXXc../XXXXX../bfafc..;26
+Queens And Jacks;Xg..eXX/Xc..b.a/ce.Xagb;16
+Nines;g..XXXX/XX.XXXX/XXd..XX/X.g.aXX/X.X.d.b/Xba.g.a;23
+Courtyard;XXX.g/XXX.X/XXX.X/agX.X/cd.f./fXcda;15
+Double Fives;c.X.fXXX/X.X.Xh.X/Xaf..e.a/Xce..XhX;10
+Perseverance;XXXX.gX/XXXX.XX/XhXX..f/Xb.X..a/XX.b..X/f.gXa.h;15
